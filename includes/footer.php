@@ -1,6 +1,7 @@
 <?php
 /** Large premium footer + floating actions + mobile bottom bar + scripts. */
 require_once __DIR__ . '/config.php';
+require_once __DIR__ . '/components.php';
 
 /*
  * Footer social row. WhatsApp always appears (the number is configured and is
@@ -137,10 +138,24 @@ $icons = [
   <button class="to-top" type="button" aria-label="Back to top">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
   </button>
-  <a class="fab__btn" href="<?= e(wa()) ?>" rel="noopener nofollow" target="_blank">
-    <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2m5.3 14.1c-.2.6-1.3 1.2-1.8 1.2s-1.2.3-3.9-.9a12 12 0 0 1-4.6-4.5c-.4-.6-1-1.7-1-3.2A3.2 3.2 0 0 1 7 6.4a.9.9 0 0 1 .7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2 0 .4 0 .5l-.4.5-.3.3c-.1.2-.3.3-.1.6a9 9 0 0 0 1.6 2 8 8 0 0 0 2.3 1.4c.3.2.5.1.6 0l1-1.1c.2-.3.4-.2.6-.1l2 1c.3.1.5.2.5.3z"/></svg>
-    Chat on WhatsApp
+  <a class="fab__wa" href="<?= e(wa()) ?>" rel="noopener nofollow" target="_blank" aria-label="Chat with Avon Fitness Maharashtra on WhatsApp">
+    <svg width="30" height="30" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="<?= e($icons['WhatsApp']) ?>"/></svg>
   </a>
+</div>
+
+<!-- ---------------- side "Enquiry Now" tab + popup form ---------------- -->
+<button class="side-enq" type="button" data-enq-open aria-haspopup="dialog" aria-controls="enq-modal">Enquiry Now</button>
+
+<div class="enq-modal" id="enq-modal" role="dialog" aria-modal="true" aria-labelledby="enq-modal-title" hidden>
+  <div class="enq-modal__scrim" data-enq-close></div>
+  <div class="enq-modal__box">
+    <button class="enq-modal__x" type="button" data-enq-close aria-label="Close enquiry form">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg>
+    </button>
+    <h2 id="enq-modal-title">Enquiry Now</h2>
+    <p>Tell us what you need. Our team replies with an equipment list and one clear quotation.</p>
+    <?php enquiry_form('', 'enquiry-popup'); ?>
+  </div>
 </div>
 
 <!-- ---------------- comparison drawer ---------------- -->
@@ -171,7 +186,7 @@ $icons = [
   </a>
 </nav>
 
-<script src="/assets/js/main.js?v=3" defer></script>
+<script src="/assets/js/main.js?v=4" defer></script>
 <?php if (!empty($PAGE['catalog_js'])): ?>
 <script src="/assets/js/catalog.js?v=3" defer></script>
 <?php endif; ?>

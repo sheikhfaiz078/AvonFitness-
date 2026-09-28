@@ -6,35 +6,130 @@ $all        = products();
 $cats       = categories();
 $totalProds = count($all);
 $totalSubs  = array_sum(array_map(static fn($f) => count($f['subcategories']), $cats['families']));
+/* "690+" style figure for banners — always rounded DOWN so it stays true. */
+$prodsPlus  = (int) (floor($totalProds / 10) * 10);
 
-$featured = array_slice(rank_products(products_where(['family' => 'cardio'])), 0, 4);
-$featured = array_merge($featured, array_slice(rank_products(products_where(['family' => 'strength'])), 0, 4));
-
-/* Hero carousel. Slides use cut-out photography only — a white-matte JPEG
-   would show as a white box on the charcoal hero. */
-$heroSlides = hero_slides();
-if (!$heroSlides) {
-    $fallback = tile_sample('treadmills') ?? $all[0];
-    $heroSlides = [['label' => $fallback['subcategory'],
-                    'copy'  => $fallback['short_description'],
-                    'h1'    => [['', 'Gym equipment'], ['accent', 'engineered'],
-                                ['outline', 'for every space.']],
-                    'product' => $fallback,
-                    'spec'  => headline_spec($fallback)]];
-}
-
-/** Render one headline as the three animated lines. */
-function hero_h1_lines(array $lines): string
+/** Root-relative image path for a product slug, or '' if the product is gone. */
+function home_img(string $slug): string
 {
-    $out = '';
-    foreach ($lines as [$cls, $text]) {
-        $out .= '<span class="ln"><span' . ($cls ? ' class="' . e($cls) . '"' : '') . '>'
-              . e($text) . '</span></span>';
-    }
-    return $out;
+    $p = product($slug);
+    return $p ? '/' . $p['image'] : '';
 }
 
-$showcase = array_slice(rank_products(products_where(['segment' => 'commercial'])), 0, 10);
+/**
+ * Transparent, tightly-trimmed cut-out of a product photo for banner use
+ * (generated into assets/images/home/cut/). Falls back to the catalogue photo.
+ */
+function home_cut(string $slug): string
+{
+    $rel = 'assets/images/home/cut/' . $slug . '.webp';
+    return is_file(AVON_ROOT . '/' . $rel) ? '/' . $rel : home_img($slug);
+}
+
+/**
+ * Uploaded banner artwork overrides the built-in banner design.
+ *
+ * Drop <key>.webp (or .jpg / .png) into assets/images/home/ and it is used
+ * automatically; add <key>-mobile.webp for a separate phone crop. With no file
+ * the banner is drawn in HTML/CSS from the product photography.
+ */
+function home_banner(string $key): ?array
+{
+    $found = ['src' => null, 'mobile' => null];
+    foreach (['' => 'src', '-mobile' => 'mobile'] as $suffix => $slot) {
+        foreach (['webp', 'jpg', 'jpeg', 'png'] as $ext) {
+            $rel = 'assets/images/home/' . $key . $suffix . '.' . $ext;
+            if (is_file(AVON_ROOT . '/' . $rel)) {
+                $found[$slot] = '/' . $rel;
+                break;
+            }
+        }
+    }
+    return $found['src'] ? $found : null;
+}
+
+/** Render an uploaded banner as a responsive <picture>. */
+function banner_picture(array $b, string $alt, bool $eager = false): void
+{
+    ?>
+    <picture class="bnr-photo">
+      <?php if ($b['mobile']): ?><source media="(max-width: 700px)" srcset="<?= e($b['mobile']) ?>"><?php endif; ?>
+      <img src="<?= e($b['src']) ?>" alt="<?= e($alt) ?>" <?= $eager ? 'fetchpriority="high"' : 'loading="lazy"' ?> decoding="async">
+    </picture>
+    <?php
+}
+
+/* ------------------------------------------------------------ hero slides */
+$slides = [
+    [
+        'key'   => 'slide-1',
+        'theme' => 'molten',
+        'href'  => '/strength/molten-series/',
+        'badge' => 'New Launch',
+        'title' => ['Molten Series', 'Strength Unlimited'],
+        'sub'   => 'Explore the complete strength series',
+        'alt'   => 'Avon Fitness Molten Series selectorised strength machines',
+        'imgs'  => ['ml-142-seated-leg-press', 'ml-164-glute-builder', 'ml-109-assisted-dip-chin'],
+    ],
+    [
+        'key'   => 'slide-2',
+        'theme' => 'cardio',
+        'href'  => '/cardio/treadmills/',
+        'badge' => 'Commercial Cardio',
+        'title' => ['Treadmills', 'Built to Run'],
+        'sub'   => 'AC-drive treadmills for busy gym floors',
+        'alt'   => 'Avon Fitness commercial treadmills',
+        'imgs'  => ['tm-491-commercial-treadmill', 'tm-499-hi-pro-commercial-treadmill', 'tm-1000-commercial-treadmill'],
+    ],
+    [
+        'key'   => 'slide-3',
+        'theme' => 'home',
+        'href'  => '/home-gym/',
+        'badge' => 'Home Fitness',
+        'title' => ['Home Gym', 'Collection'],
+        'sub'   => 'Treadmills, cross trainers, spin bikes & home gyms',
+        'alt'   => 'Avon Fitness home gym, cross trainer and spin bike',
+        'imgs'  => ['hg-1265-home-gym', 'ct-594-new-home-cross-trainer', 'sp-2207-home-spin-bike'],
+    ],
+];
+
+/* ------------------------------------------------ category cards (4-up) */
+$catCards = [
+    ['Treadmills',     '/cardio/treadmills/',            'tm-147-home-treadmill'],
+    ['Home Gyms',      '/strength/home-gym-stations/',   'hg-1212-home-gym'],
+    ['Cross Trainers', '/cardio/cross-trainers/',        'ct-594-new-home-cross-trainer'],
+    ['Spin Bikes',     '/cardio/spin-bikes/',            'sp-2207-home-spin-bike'],
+];
+
+/* ------------------------------------------------- accessory promo cards */
+$promos = [
+    ['Gym flooring & protection', 'Gym Flooring & Protection', '/search/?q=flooring',
+        ['gym-tuff-flooring', 'boxing-gloves', 'gg-106-gym-gloves']],
+    ['Strength & Conditioning', 'Strength & Conditioning', '/search/?q=battle+rope',
+        ['pp-battle-rope', 'mb-116-medicine-ball', 'st-063-suspension-training-system-with-bag']],
+    ['Weightlifting equipment', 'Weightlifting Equipment', '/search/?q=belt',
+        ['olympic-bar-with-bearing', 'power-weight-lifting-belt', 'weight-lifting-leather-belt']],
+];
+
+/* ---------------------------------------- partner logos (drop-in folder) */
+$partners = [];
+foreach (glob(AVON_ROOT . '/assets/images/partners/*.{webp,png,jpg,jpeg,svg}', GLOB_BRACE) ?: [] as $f) {
+    $base = pathinfo($f, PATHINFO_FILENAME);
+    $partners[] = [
+        'src' => '/assets/images/partners/' . basename($f),
+        'alt' => ucwords(trim(preg_replace('/[-_]+/', ' ', preg_replace('/^\d+[-_]*/', '', $base)))),
+    ];
+}
+
+/* --------------------------------------------- product tabs (filterable) */
+$tabs = [
+    ['treadmills',     'Treadmills',     products_where(['sub' => 'treadmills']),        '/cardio/treadmills/'],
+    ['cross-trainers', 'Cross Trainers', products_where(['sub' => 'cross-trainers']),    '/cardio/cross-trainers/'],
+    ['spin-bikes',     'Spin Bikes',     products_where(['sub' => 'spin-bikes']),        '/cardio/spin-bikes/'],
+    ['home-gyms',      'Home Gyms',      products_where(['sub' => 'home-gym-stations']), '/strength/home-gym-stations/'],
+    ['strength',       'Strength',       products_where(['family' => 'strength', 'segment' => 'commercial']), '/strength/'],
+    ['accessories',    'Accessories',    products_where(['family' => 'accessories']),    '/accessories/'],
+];
 
 $homeFaqs = [
     ['q' => 'What gym equipment do I need to start a commercial gym?',
@@ -59,259 +154,201 @@ $PAGE = [
     'canonical'   => '',
     'nav'         => 'home',
     'catalog_js'  => false,
+    'body_attr'   => 'data-page="home"',
     'schema'      => [faq_schema($homeFaqs)],
 ];
 require __DIR__ . '/includes/header.php';
 ?>
 
-<!-- ============ 01 HERO ============ -->
-<section class="hero">
-  <div class="hero__bg" aria-hidden="true">
-    <span class="hero__grid"></span>
-    <span class="hero__glow"></span>
-    <span class="hero__slash"></span>
+<h1 class="sr-only">Avon Fitness Maharashtra — commercial and home gym equipment supplied and installed across Maharashtra</h1>
+
+<!-- ============ 01 HERO BANNER SLIDER ============ -->
+<section class="hs" data-banner-slider data-interval="5000"
+         aria-roledescription="carousel" aria-label="Featured Avon Fitness ranges">
+  <div class="hs__track">
+    <?php foreach ($slides as $i => $s): $photo = home_banner($s['key']); ?>
+      <div class="hs__slide<?= $i === 0 ? ' is-active' : '' ?>" data-slide="<?= $i ?>"
+           role="group" aria-roledescription="slide"
+           aria-label="<?= $i + 1 ?> of <?= count($slides) ?>: <?= e($s['title'][0]) ?>"
+           <?= $i ? 'aria-hidden="true"' : '' ?>>
+        <a class="hs__link" href="<?= e($s['href']) ?>" <?= $i ? 'tabindex="-1"' : '' ?>>
+          <?php if ($photo): banner_picture($photo, $s['alt'], $i === 0); else: ?>
+          <div class="bnr bnr--<?= e($s['theme']) ?>">
+            <span class="bnr__fx" aria-hidden="true"><i></i><i></i><i></i></span>
+            <div class="bnr__text">
+              <span class="bnr__badge"><?= e($s['badge']) ?></span>
+              <h2 class="bnr__title">
+                <span><?= e($s['title'][0]) ?></span>
+                <span><?= e($s['title'][1]) ?></span>
+              </h2>
+              <p class="bnr__sub"><?= e($s['sub']) ?></p>
+            </div>
+            <?php foreach ($s['imgs'] as $n => $slug): $src = home_cut($slug); if (!$src) continue; ?>
+              <img class="bnr__img bnr__img--<?= $n + 1 ?>" src="<?= e($src) ?>"
+                   alt="<?= $n === 0 ? e($s['alt']) : '' ?>" width="700" height="700"
+                   <?= ($i === 0 && $n === 0) ? 'fetchpriority="high"' : 'loading="lazy"' ?> decoding="async">
+            <?php endforeach; ?>
+          </div>
+          <?php endif; ?>
+        </a>
+      </div>
+    <?php endforeach; ?>
   </div>
 
-  <div class="wrap-wide hero__inner hero-carousel"
-       data-hero-carousel data-interval="3000"
-       role="region" aria-roledescription="carousel"
-       aria-label="Featured Avon Fitness equipment">
+  <button class="hs__arrow hs__arrow--prev" type="button" data-bs-prev aria-label="Previous banner">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>
+  </button>
+  <button class="hs__arrow hs__arrow--next" type="button" data-bs-next aria-label="Next banner">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg>
+  </button>
+  <div class="hs__dots" role="tablist" aria-label="Choose banner">
+    <?php foreach ($slides as $i => $s): ?>
+      <button class="hs__dot<?= $i === 0 ? ' is-active' : '' ?>" type="button" role="tab"
+              data-bs-dot="<?= $i ?>" aria-selected="<?= $i === 0 ? 'true' : 'false' ?>"
+              aria-label="<?= e($s['title'][0]) ?>"></button>
+    <?php endforeach; ?>
+  </div>
+</section>
 
-    <div class="hero__lead">
-      <span class="eyebrow is-in">Maharashtra &middot; Commercial &amp; Home &middot; Pan-India Supply</span>
-
-      <!--
-        Exactly one top-level heading. Its contents are swapped per slide by
-        main.js rather than rendering six headings, so the page keeps a single,
-        unambiguous heading for search engines. The alternate headlines travel
-        in the data-h1 attribute on each slide.
-      -->
-      <h1 class="hero__title" data-hero-h1><?= hero_h1_lines($heroSlides[0]['h1']) ?></h1>
-
-      <!-- rotating supporting copy; the H1 above stays fixed for SEO -->
-      <div class="hero__copywrap">
-        <?php foreach ($heroSlides as $i => $s): ?>
-          <p class="hero__copy hero-slide-copy<?= $i === 0 ? ' is-active' : '' ?>"
-             data-hero-copy="<?= $i ?>"<?= $i ? ' aria-hidden="true"' : '' ?>><?= e($s['copy']) ?></p>
-        <?php endforeach; ?>
-      </div>
-
-      <div class="hero__cta">
-        <a class="btn" href="/products/">Explore Equipment
-          <svg class="ico" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+<!-- ============ 02 CATEGORY CARDS + TREADMILL BANNER ============ -->
+<section class="hcat">
+  <div class="hwrap">
+    <div class="hcat__grid">
+      <?php foreach ($catCards as [$name, $href, $slug]): ?>
+        <a class="hcat__card" href="<?= e($href) ?>">
+          <span class="hcat__name"><?= e($name) ?></span>
+          <?php if ($src = home_cut($slug)): ?>
+            <img src="<?= e($src) ?>" alt="Avon Fitness <?= e(strtolower($name)) ?>" width="700" height="700" loading="lazy" decoding="async">
+          <?php endif; ?>
         </a>
-        <a class="btn btn--light" href="/commercial-gym-solutions/">Plan Your Gym</a>
-      </div>
+      <?php endforeach; ?>
+    </div>
 
-      <!-- slide controls -->
-      <div class="hero__controls">
-        <button class="hero__arrow" type="button" data-hero-prev aria-label="Previous equipment">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M19 12H5M11 19l-7-7 7-7"/></svg>
-        </button>
-        <div class="hero__dots" role="tablist" aria-label="Choose equipment to feature">
-          <?php foreach ($heroSlides as $i => $s): ?>
-            <button class="hero__dot<?= $i === 0 ? ' is-active' : '' ?>" type="button"
-                    role="tab" data-hero-dot="<?= $i ?>"
-                    aria-selected="<?= $i === 0 ? 'true' : 'false' ?>"
-                    aria-label="<?= e($s['label']) ?> — <?= e($s['product']['product_name']) ?>">
-              <span class="hero__dot-fill"></span>
-            </button>
+    <?php $photo = home_banner('banner-run'); ?>
+    <a class="hrun" href="/cardio/treadmills/" aria-label="Shop treadmills">
+      <?php if ($photo): banner_picture($photo, 'Avon Fitness treadmills'); else: ?>
+      <span class="hrun__room" aria-hidden="true"></span>
+      <span class="hrun__panel" aria-hidden="true"></span>
+      <span class="hrun__text">
+        <span class="hrun__l1">Run.</span>
+        <span class="hrun__l1">Push.</span>
+        <span class="hrun__l2">Repeat.</span>
+      </span>
+      <img class="hrun__tm hrun__tm--1" src="<?= e(home_cut('tm-493-new-commercial-treadmill')) ?>" alt="" width="700" height="700" loading="lazy" decoding="async">
+      <img class="hrun__tm hrun__tm--2" src="<?= e(home_cut('tm-491-commercial-treadmill')) ?>" alt="" width="700" height="700" loading="lazy" decoding="async">
+      <img class="hrun__tm hrun__tm--3" src="<?= e(home_cut('tm-477-commercial-treadmill')) ?>" alt="" width="700" height="700" loading="lazy" decoding="async">
+      <span class="hrun__cta">Shop Treadmills
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </span>
+      <?php endif; ?>
+    </a>
+  </div>
+</section>
+
+<!-- ============ 03 ACCESSORY PROMO CARDS ============ -->
+<section class="hpromo">
+  <div class="hwrap">
+    <div class="hpromo__grid">
+      <?php foreach ($promos as [$title, $mark, $href, $imgs]): ?>
+        <div class="hpromo__card">
+          <span class="hpromo__mark" aria-hidden="true"><?= e($mark) ?></span>
+          <h2 class="hpromo__title"><?= e($title) ?></h2>
+          <a class="hpromo__btn" href="<?= e($href) ?>">Buy Now<span class="sr-only"> — <?= e($title) ?></span></a>
+          <?php foreach ($imgs as $n => $slug): if (!$src = home_cut($slug)) continue; ?>
+            <img class="hpromo__img hpromo__img--<?= $n + 1 ?>" src="<?= e($src) ?>" alt="" width="700" height="700" loading="lazy" decoding="async">
           <?php endforeach; ?>
         </div>
-        <button class="hero__arrow" type="button" data-hero-next aria-label="Next equipment">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-        </button>
-        <button class="hero__pause" type="button" data-hero-pause
-                aria-label="Pause the equipment carousel" aria-pressed="false">
-          <svg class="ico-pause" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>
-          <svg class="ico-play" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
-        </button>
-      </div>
-    </div>
-
-    <div class="hero__stage">
-      <?php foreach ($heroSlides as $i => $s): $p = $s['product']; ?>
-        <figure class="hero-slide<?= $i === 0 ? ' is-active' : '' ?>"
-                data-hero-slide="<?= $i ?>"
-                data-h1="<?= e(json_encode($s['h1'], JSON_UNESCAPED_UNICODE)) ?>"
-                role="group" aria-roledescription="slide"
-                aria-label="<?= $i + 1 ?> of <?= count($heroSlides) ?>: <?= e($p['product_name']) ?>"
-                <?= $i ? 'aria-hidden="true"' : '' ?>>
-          <a class="hero-slide__link" href="/product/<?= e($p['slug']) ?>/"
-             tabindex="<?= $i ? '-1' : '0' ?>">
-            <img src="/<?= e($p['image']) ?>" alt="<?= e($p['image_alt']) ?>"
-                 width="620" height="620"
-                 <?= $i === 0 ? 'fetchpriority="high"' : 'loading="lazy"' ?> decoding="async">
-          </a>
-          <figcaption class="hero-slide__cap">
-            <span class="hero-slide__label"><?= e($s['label']) ?></span>
-            <span class="hero-slide__name"><?= e($p['product_name']) ?></span>
-            <span class="hero-slide__spec"><?= e($s['spec']) ?></span>
-            <a class="hero-slide__cta" href="/product/<?= e($p['slug']) ?>/" tabindex="<?= $i ? '-1' : '0' ?>">
-              View specifications
-              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-            </a>
-          </figcaption>
-        </figure>
       <?php endforeach; ?>
-      <p class="sr-only" aria-live="polite" data-hero-live></p>
-    </div>
-  </div>
-
-  <div class="wrap-wide">
-    <div class="hero__strip">
-      <div class="hero__stat">
-        <b><span data-count="75" data-suffix="+">0</span></b>
-        <span>Years of the Avon name</span>
-      </div>
-      <div class="hero__stat">
-        <b><span data-count="<?= $totalProds ?>" data-suffix="+">0</span></b>
-        <span>Products in the catalogue</span>
-      </div>
-      <div class="hero__stat">
-        <b><span data-count="<?= $totalSubs ?>">0</span></b>
-        <span>Equipment categories</span>
-      </div>
-      <div class="hero__stat">
-        <b><span class="u">MH</span></b>
-        <span>Delivery &amp; installation</span>
-      </div>
-    </div>
-  </div>
-
-  <span class="scroll-cue" aria-hidden="true">Scroll to explore <i></i></span>
-</section>
-
-<!-- ============ 02 MARQUEE / TRUST ============ -->
-<section class="section--dark" style="background:var(--charcoal)">
-  <div class="marquee" aria-hidden="true">
-    <div class="marquee__track">
-      <?php for ($i = 0; $i < 2; $i++): ?>
-        <span>Commercial Gyms</span><span>Hotels &amp; Resorts</span><span>Corporate Fitness</span>
-        <span>Universities</span><span>Sports Facilities</span><span>Housing Societies</span>
-        <span>Home Gyms</span><span>Outdoor Fitness Zones</span>
-      <?php endfor; ?>
     </div>
   </div>
 </section>
 
-<!-- ============ 03 SHOP BY CATEGORY ============ -->
-<section class="section">
-  <div class="wrap-wide">
-    <?php sec_head('01', 'Shop by category',
-        'Every rack,<br><span class="thin">every machine.</span>',
-        'The full Avon range, grouped the way a gym floor is actually laid out.',
-        '/products/', 'View all products'); ?>
-
-    <div class="grid g-3 tiles-grid" data-stagger>
-      <?php
-      $tiles = [
-          ['/cardio/', '01', 'Cardio Equipment', count(products_where(['family' => 'cardio'])), 'treadmills'],
-          ['/strength/', '02', 'Strength Equipment', count(products_where(['family' => 'strength'])), 'multi-stations'],
-          ['/home-gym/', '03', 'Home Gym', count(products_where(['segment' => 'home'])), 'home-gym-stations'],
-          ['/commercial-gym/', '04', 'Commercial Gym', count(products_where(['segment' => 'commercial'])), 'fit-fighter-pro-series'],
-          ['/outdoor-gym/', '05', 'Outdoor Gym', count(products_where(['family' => 'outdoor'])), 'outdoor-gym'],
-          ['/accessories/', '06', 'Accessories', count(products_where(['family' => 'accessories'])), 'accessories'],
-      ];
-      foreach ($tiles as [$href, $num, $name, $count, $sampleSub]) {
-          $sample = tile_sample($sampleSub);
-          category_tile($href, $num, $name, $count, $sample);
-      }
-      ?>
-    </div>
-  </div>
-</section>
-
-<!-- ============ 04 FEATURED EQUIPMENT ============ -->
-<section class="section section--alt">
-  <div class="wrap-wide">
-    <?php sec_head('02', 'Featured equipment',
-        'Built for the<br><span class="thin">long run.</span>',
-        'A cross-section of the range — full specifications on every product page.',
-        '/products/', 'Full catalogue'); ?>
-    <?php product_grid($featured, 'g-4'); ?>
-  </div>
-</section>
-
-<!-- ============ 05 BUILT FOR EVERY SPACE ============ -->
-<section class="section">
-  <div class="wrap-wide">
-    <?php sec_head('03', 'Built for every space',
-        'One range,<br><span class="thin">six kinds of floor.</span>',
-        'The specification changes with the duty cycle. We match equipment to how hard the floor will actually be worked.'); ?>
-
-    <div class="grid g-3" data-stagger>
-      <?php
-      $spaces = [
-          ['Home Gyms', 'Space-efficient cardio, benches and home gym stations sized for a room rather than a hall.', '/home-gym/'],
-          ['Commercial Gyms', 'Heavy-gauge frames, higher-rated motors and selectorised stacks specified for continuous use.', '/commercial-gym/'],
-          ['Corporate Fitness', 'Compact, low-maintenance mixes for office wellness rooms and campus facilities.', '/commercial-gym-solutions/#corporate'],
-          ['Hotels &amp; Resorts', 'Guest-facing layouts where footprint, finish and quiet operation all matter.', '/commercial-gym-solutions/#hospitality'],
-          ['Institutions', 'Universities, academies, defence and government facilities with high user turnover.', '/commercial-gym-solutions/#institutional'],
-          ['Outdoor Fitness', 'Open-air units for parks, societies and campuses, fixed down on proper foundations.', '/outdoor-gym/'],
-      ];
-      foreach ($spaces as [$t, $d, $h]): ?>
-        <a class="fcard" href="<?= e($h) ?>">
-          <span class="fcard__ico" aria-hidden="true">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 10.5 12 4l9 6.5V20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"/></svg>
+<!-- ============ 04 PARTNERS ============ -->
+<section class="hpart">
+  <div class="hwrap">
+    <?php if ($partners): ?>
+      <h2 class="hsec-title">Our Fitness Partners</h2>
+      <div class="hpart__row">
+        <?php foreach ($partners as $pt): ?>
+          <span class="hpart__logo"><img src="<?= e($pt['src']) ?>" alt="<?= e($pt['alt']) ?>" loading="lazy" decoding="async"></span>
+        <?php endforeach; ?>
+      </div>
+    <?php else: ?>
+      <h2 class="hsec-title">Trusted Across Every Kind of Gym</h2>
+      <div class="hpart__row">
+        <?php
+        $sectors = [
+            ['Commercial Gyms', 'M6 7v10M18 7v10M3 10v4M21 10v4M6 12h12'],
+            ['Hotels &amp; Resorts', 'M3 21V8l9-5 9 5v13M9 21v-6h6v6'],
+            ['Corporate Fitness', 'M4 21V5a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1v16M15 9h4a1 1 0 0 1 1 1v11M8 8h3M8 12h3M8 16h3'],
+            ['Colleges &amp; Universities', 'M2 9l10-5 10 5-10 5zM6 11v5c0 1.5 3 3 6 3s6-1.5 6-3v-5'],
+            ['Defence &amp; Government', 'M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z'],
+            ['Housing Societies', 'M3 21h18M5 21V10l7-5 7 5v11M10 21v-5h4v5'],
+            ['Sports Academies', 'M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M3.5 9h17M3.5 15h17M12 3c2.5 2.5 3.5 5.5 3.5 9s-1 6.5-3.5 9c-2.5-2.5-3.5-5.5-3.5-9s1-6.5 3.5-9'],
+            ['Home Gyms', 'M3 11 12 4l9 7M5 10v10h14V10M10 20v-5h4v5'],
+        ];
+        foreach ($sectors as [$label, $path]): ?>
+          <span class="hpart__logo hpart__logo--sector">
+            <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="<?= $path ?>"/></svg>
+            <span><?= $label ?></span>
           </span>
-          <h3><?= $t ?></h3>
-          <p><?= $d ?></p>
-        </a>
-      <?php endforeach; ?>
-    </div>
+        <?php endforeach; ?>
+      </div>
+    <?php endif; ?>
   </div>
 </section>
 
-<!-- ============ 06 COMMERCIAL GYM SOLUTIONS ============ -->
-<section class="section section--dark">
-  <div class="wrap-wide">
-    <?php sec_head('04', 'Commercial gym solutions',
-        'From floor plan<br><span class="thin">to first session.</span>',
-        'Planning, supply, installation and after-sales handled as one project rather than four separate problems.',
-        '/commercial-gym-solutions/', 'Gym solutions'); ?>
+<!-- ============ 05 "PRODUCTS TO CHOOSE FROM" BANNER ============ -->
+<?php $photo = home_banner('banner-products'); ?>
+<a class="hprod" href="/products/">
+  <?php if ($photo): banner_picture($photo, 'Over ' . $prodsPlus . ' Avon Fitness products'); else: ?>
+  <span class="hprod__room" aria-hidden="true"><i class="hprod__floor"></i></span>
+  <span class="hprod__gear" aria-hidden="true">
+    <?php
+    $gear = ['ff-149-pro-power-cage', 'elite-864-squat-rack', 'multi-bench', 'weight-plate-rack',
+             'rhino-839-max-power-cage-with-smith-machine', 'v-squat-rack', 'ff-165-multi-adjustable-bench', 'rs-2086-olympic-rod-stand'];
+    foreach ($gear as $n => $slug): if (!$src = home_cut($slug)) continue; ?>
+      <img class="hprod__g hprod__g--<?= $n + 1 ?>" src="<?= e($src) ?>" alt="" width="700" height="700" loading="lazy" decoding="async">
+    <?php endforeach; ?>
+  </span>
+  <span class="hprod__strip">Over <?= $prodsPlus ?>+ products to choose from</span>
+  <span class="hprod__cta">Explore the full catalogue
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+  </span>
+  <?php endif; ?>
+</a>
 
-    <div class="grid g-4" data-stagger>
-      <?php
-      $steps = [
-          ['01', 'Planning', 'We work from your drawings — floor area, ceiling height, access, power — and propose a layout and equipment mix.'],
-          ['02', 'Supply', 'One quotation, one order. Equipment drawn from the Avon commercial and domestic ranges to suit the brief.'],
-          ['03', 'Installation', 'Delivery, assembly, positioning and commissioning on site, with the floor handed over ready to use.'],
-          ['04', 'Support', 'Service, spares and maintenance after handover, backed by the manufacturer&rsquo;s technical desk.'],
-      ];
-      foreach ($steps as [$n, $t, $d]): ?>
-        <div class="step">
-          <span class="step__n"><?= $n ?></span>
-          <h3><?= $t ?></h3>
-          <p><?= $d ?></p>
+<!-- ============ 06 OUR PRODUCTS (filter tabs) ============ -->
+<section class="hprods">
+  <div class="hwrap">
+    <h2 class="hsec-title">Our Products</h2>
+    <p class="hsec-lead"><?= $totalProds ?> products across <?= $totalSubs ?> categories — pick a range to filter.</p>
+
+    <div class="htabs" role="tablist" aria-label="Filter products by range" data-htabs>
+      <?php foreach ($tabs as $i => [$key, $label]): ?>
+        <button class="htabs__btn<?= $i === 0 ? ' is-active' : '' ?>" type="button" role="tab"
+                id="htab-<?= e($key) ?>" aria-controls="hpanel-<?= e($key) ?>"
+                aria-selected="<?= $i === 0 ? 'true' : 'false' ?>" <?= $i ? 'tabindex="-1"' : '' ?>
+                data-htab="<?= e($key) ?>"><?= e($label) ?></button>
+      <?php endforeach; ?>
+    </div>
+
+    <?php foreach ($tabs as $i => [$key, $label, $list, $href]): ?>
+      <div class="htabs__panel" id="hpanel-<?= e($key) ?>" role="tabpanel"
+           aria-labelledby="htab-<?= e($key) ?>" <?= $i ? 'hidden' : '' ?>>
+        <div class="grid g-4">
+          <?php foreach (array_slice(rank_products($list), 0, 8) as $p) { product_card($p); } ?>
         </div>
-      <?php endforeach; ?>
-    </div>
-
-    <div class="rule" style="margin:3rem 0 2.4rem"></div>
-
-    <div class="grid g-3" data-stagger>
-      <?php
-      $segs = [
-          'Corporate Gyms', 'Hotels &amp; Resorts', 'Universities &amp; Colleges',
-          'Sports &amp; Training Facilities', 'Fitness Clubs &amp; Studios', 'Institutional &amp; Community Gyms',
-      ];
-      foreach ($segs as $s): ?>
-        <div class="fcard"><h3 style="margin:0"><?= $s ?></h3></div>
-      <?php endforeach; ?>
-    </div>
-    <p class="lead" style="margin-top:1.6rem">
-      Avon equipment is built for the market segments the manufacturer supplies — fitness clubs,
-      sports teams, colleges, military and workplace fitness facilities, as well as hotels, spas
-      and home gyms.
-    </p>
+        <p class="htabs__more"><a class="hpromo__btn" href="<?= e($href) ?>">View all <?= e(strtolower($label)) ?> (<?= count($list) ?>)</a></p>
+      </div>
+    <?php endforeach; ?>
   </div>
 </section>
 
 <!-- ============ 07 WHY AVON ============ -->
-<section class="section">
+<section class="section section--alt">
   <div class="wrap-wide">
-    <?php sec_head('05', 'Why Avon Fitness',
+    <?php sec_head('', 'Why Avon Fitness',
         'Manufactured here.<br><span class="thin">Serviced here.</span>',
         'Avon Fitness is part of the Avon group of Ludhiana, a name that has been manufacturing in India for over 75 years. That matters in practice, not just in a brochure.'); ?>
 
@@ -325,7 +362,7 @@ require __DIR__ . '/includes/header.php';
           ['Installation Included', 'Delivery, assembly and commissioning handled on site across Maharashtra — not left to the customer.'],
           ['After-Sales Support', 'Service and spares backed by the manufacturer&rsquo;s technical and spare-parts desk.'],
       ];
-      foreach ($why as $i => [$t, $d]): ?>
+      foreach ($why as [$t, $d]): ?>
         <div class="fcard">
           <span class="fcard__ico" aria-hidden="true">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="m5 13 4 4L19 7"/></svg>
@@ -338,46 +375,10 @@ require __DIR__ . '/includes/header.php';
   </div>
 </section>
 
-<!-- ============ 08 PRODUCT SHOWCASE (horizontal) ============ -->
-<section class="section section--alt">
-  <div class="wrap-wide">
-    <?php sec_head('06', 'On the floor',
-        'Commercial<br><span class="thin">showcase.</span>',
-        'Scroll through a slice of the commercial range.',
-        '/commercial-gym/', 'Commercial range'); ?>
-    <div class="hscroll">
-      <?php foreach ($showcase as $p) { product_card($p, false); } ?>
-    </div>
-  </div>
-</section>
-
-<!-- ============ 09 MAHARASHTRA COVERAGE ============ -->
-<section class="section section--dark">
-  <div class="wrap-wide">
-    <?php sec_head('07', 'Maharashtra coverage',
-        'Serving gyms<br><span class="thin">across the state.</span>',
-        'We take enquiries, deliver and install across Maharashtra. Pick your city to see how we handle projects there.',
-        '/gym-equipment-maharashtra/', 'Maharashtra guide'); ?>
-
-    <div class="map-grid" data-reveal>
-      <?php foreach (cities() as $city): ?>
-        <a class="map-cell" href="/gym-equipment-maharashtra/#<?= e(strtolower(str_replace(' ', '-', $city))) ?>">
-          <b><?= e($city) ?></b>
-          <span>Supply &amp; installation</span>
-        </a>
-      <?php endforeach; ?>
-    </div>
-    <p class="lead" style="margin-top:1.6rem">
-      Coverage means delivery, installation and service — not a branch office in every city.
-      Pan-India supply is available on project and bulk orders.
-    </p>
-  </div>
-</section>
-
-<!-- ============ 10 BLOG ============ -->
+<!-- ============ 08 BLOG ============ -->
 <section class="section">
   <div class="wrap-wide">
-    <?php sec_head('08', 'Guides &amp; insight',
+    <?php sec_head('', 'Guides &amp; insight',
         'Before you<br><span class="thin">place the order.</span>',
         'Practical guides on choosing, planning and maintaining gym equipment.',
         '/blog/', 'All articles'); ?>
@@ -398,17 +399,17 @@ require __DIR__ . '/includes/header.php';
   </div>
 </section>
 
-<!-- ============ 11 FAQ ============ -->
+<!-- ============ 09 FAQ ============ -->
 <section class="section section--alt">
   <div class="wrap-wide" style="max-width:940px">
-    <?php sec_head('09', 'Questions',
+    <?php sec_head('', 'Questions',
         'Straight answers<br><span class="thin">before you buy.</span>'); ?>
     <?php faq_block($homeFaqs, 'home-faq'); ?>
     <p style="margin-top:1.6rem"><a class="ulink" href="/faqs/">See all frequently asked questions &rarr;</a></p>
   </div>
 </section>
 
-<!-- ============ 12 FINAL CTA ============ -->
+<!-- ============ 10 FINAL CTA ============ -->
 <?php cta_band(); ?>
 
 <?php require __DIR__ . '/includes/footer.php'; ?>

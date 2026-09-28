@@ -156,10 +156,10 @@ $megaSeries   = array_values(array_filter($strengthSubs, static fn($s) => str_en
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" media="print" onload="this.media='all'">
-<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap"></noscript>
-<link rel="stylesheet" href="/assets/css/main.css?v=3">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=Roboto:wght@400;500;700;900&family=Poppins:ital,wght@0,600;0,700;0,800;1,700;1,800&family=Montserrat:ital,wght@0,400;0,700;1,800&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=Roboto:wght@400;500;700;900&family=Poppins:ital,wght@0,600;0,700;0,800;1,700;1,800&family=Montserrat:ital,wght@0,400;0,700;1,800&family=IBM+Plex+Mono:wght@400;500&display=swap" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=Roboto:wght@400;500;700;900&family=Poppins:ital,wght@0,600;0,700;0,800;1,700;1,800&family=Montserrat:ital,wght@0,400;0,700;1,800&family=IBM+Plex+Mono:wght@400;500&display=swap"></noscript>
+<link rel="stylesheet" href="/assets/css/main.css?v=4">
 
 <script type="application/ld+json"><?= $jsonld ?></script>
 <script>window.AVON_CONFIG={phone:<?= json_encode($CFG['CONTACT_PHONE']) ?>,phone_raw:<?= json_encode($CFG['CONTACT_PHONE_RAW']) ?>,whatsapp:<?= json_encode($CFG['WHATSAPP_NUMBER']) ?>,email:<?= json_encode($CFG['CONTACT_EMAIL']) ?>};</script>
@@ -196,10 +196,16 @@ $megaSeries   = array_values(array_filter($strengthSubs, static fn($s) => str_en
     </nav>
 
     <div class="hdr__tools">
-      <button class="icon-btn" type="button" data-search-open aria-label="Search equipment">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <button class="hbtn hbtn--circle" type="button" data-search-open aria-label="Search equipment">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
       </button>
-      <a class="btn btn--sm" href="/contact/">Get a Quote</a>
+      <a class="hbtn hbtn--pill" href="/catalogue/">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg>
+        Catalogue
+      </a>
+      <a class="hbtn hbtn--circle hbtn--call" href="tel:<?= e($CFG['CONTACT_PHONE_RAW']) ?>" aria-label="Call <?= e($CFG['CONTACT_PHONE']) ?>">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a1 1 0 0 1-1 1A16 16 0 0 1 4 5a1 1 0 0 1 1-1"/></svg>
+      </a>
       <button class="burger" type="button" aria-expanded="false" aria-label="Open menu" aria-controls="mobile-nav">
         <i></i><i></i><i></i>
       </button>

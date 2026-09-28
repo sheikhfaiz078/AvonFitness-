@@ -668,6 +668,127 @@
     window.addEventListener('pagehide', function () { bar.classList.remove('is-loading'); });
   })();
 
+  /* ---------- 17. Home banner slider ------------------------------------ */
+  (function () {
+    var root = $('[data-banner-slider]');
+    if (!root) return;
+    var slides = $$('.hs__slide', root);
+    var dots = $$('[data-bs-dot]', root);
+    if (slides.length < 2) {
+      $$('.hs__arrow, .hs__dots', root).forEach(function (el) { el.style.display = 'none'; });
+      return;
+    }
+    var interval = parseInt(root.getAttribute('data-interval'), 10) || 5000;
+    var index = 0, timer = null, hovering = false;
+
+    function show(n) {
+      index = (n + slides.length) % slides.length;
+      slides.forEach(function (s, i) {
+        var on = i === index;
+        s.classList.toggle('is-active', on);
+        s.setAttribute('aria-hidden', on ? 'false' : 'true');
+        $$('a', s).forEach(function (a) { a.tabIndex = on ? 0 : -1; });
+      });
+      dots.forEach(function (d, i) {
+        d.classList.toggle('is-active', i === index);
+        d.setAttribute('aria-selected', i === index ? 'true' : 'false');
+      });
+    }
+    function start() {
+      stop();
+      if (reduce || hovering || document.hidden) return;
+      timer = setInterval(function () { show(index + 1); }, interval);
+    }
+    function stop() { if (timer) { clearInterval(timer); timer = null; } }
+
+    $$('[data-bs-next]', root).forEach(function (b) { b.addEventListener('click', function () { show(index + 1); start(); }); });
+    $$('[data-bs-prev]', root).forEach(function (b) { b.addEventListener('click', function () { show(index - 1); start(); }); });
+    dots.forEach(function (d, i) { d.addEventListener('click', function () { show(i); start(); }); });
+
+    root.addEventListener('mouseenter', function () { hovering = true; stop(); });
+    root.addEventListener('mouseleave', function () { hovering = false; start(); });
+    root.addEventListener('focusin', function () { hovering = true; stop(); });
+    root.addEventListener('focusout', function (e) {
+      if (!root.contains(e.relatedTarget)) { hovering = false; start(); }
+    });
+    document.addEventListener('visibilitychange', function () { document.hidden ? stop() : start(); });
+    root.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowRight') { e.preventDefault(); show(index + 1); start(); }
+      if (e.key === 'ArrowLeft') { e.preventDefault(); show(index - 1); start(); }
+    });
+
+    /* swipe; a real swipe must not also follow the slide's link */
+    var sx = 0, sy = 0, swiped = false;
+    root.addEventListener('touchstart', function (e) {
+      sx = e.touches[0].clientX; sy = e.touches[0].clientY; swiped = false; stop();
+    }, { passive: true });
+    root.addEventListener('touchend', function (e) {
+      var dx = e.changedTouches[0].clientX - sx;
+      var dy = e.changedTouches[0].clientY - sy;
+      if (Math.abs(dx) > 45 && Math.abs(dx) > Math.abs(dy)) {
+        swiped = true;
+        show(dx < 0 ? index + 1 : index - 1);
+      }
+      start();
+    }, { passive: true });
+    root.addEventListener('click', function (e) {
+      if (swiped && e.target.closest('.hs__link')) { e.preventDefault(); swiped = false; }
+    }, true);
+
+    start();
+  })();
+
+  /* ---------- 18. "Enquiry Now" popup ------------------------------------ */
+  (function () {
+    var modal = $('[id="enq-modal"]');
+    if (!modal) return;
+    var lastFocus = null;
+    function open() {
+      lastFocus = document.activeElement;
+      modal.hidden = false;
+      document.body.classList.add('enq-open');
+      var first = $('input:not([type="hidden"]):not([tabindex="-1"])', modal);
+      setTimeout(function () { if (first) first.focus(); }, 40);
+    }
+    function close() {
+      modal.hidden = true;
+      document.body.classList.remove('enq-open');
+      if (lastFocus && lastFocus.focus) lastFocus.focus();
+    }
+    $$('[data-enq-open]').forEach(function (b) { b.addEventListener('click', open); });
+    $$('[data-enq-close]', modal).forEach(function (b) { b.addEventListener('click', close); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && !modal.hidden) close();
+    });
+  })();
+
+  /* ---------- 19. Home product filter tabs ------------------------------- */
+  $$('[data-htabs]').forEach(function (list) {
+    var tabs = $$('[data-htab]', list);
+    function select(tab, focus) {
+      tabs.forEach(function (t) {
+        var on = t === tab;
+        t.classList.toggle('is-active', on);
+        t.setAttribute('aria-selected', on ? 'true' : 'false');
+        t.tabIndex = on ? 0 : -1;
+        var panel = document.getElementById(t.getAttribute('aria-controls'));
+        if (panel) panel.hidden = !on;
+      });
+      if (focus) tab.focus();
+    }
+    tabs.forEach(function (t, i) {
+      t.addEventListener('click', function () { select(t, false); });
+      t.addEventListener('keydown', function (e) {
+        var n = null;
+        if (e.key === 'ArrowRight') n = tabs[(i + 1) % tabs.length];
+        if (e.key === 'ArrowLeft') n = tabs[(i - 1 + tabs.length) % tabs.length];
+        if (e.key === 'Home') n = tabs[0];
+        if (e.key === 'End') n = tabs[tabs.length - 1];
+        if (n) { e.preventDefault(); select(n, true); }
+      });
+    });
+  });
+
   /* ---------- 16. Footer year -------------------------------------------- */
   $$('[data-year]').forEach(function (el) { el.textContent = new Date().getFullYear(); });
 })();

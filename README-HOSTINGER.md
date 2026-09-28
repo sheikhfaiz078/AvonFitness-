@@ -190,7 +190,9 @@ Open `https://avonfitnessmaharashtra.in` and check:
 - [ ] The category strip under the page heading swipes sideways
 - [ ] Search box is full width; the two filter dropdowns share one row
 - [ ] The bottom bar (Call / WhatsApp / Get Quote) does not cover the filters
-- [ ] The hero carousel changes machine, headline and text together every 3 seconds
+- [ ] The banner slider under the header changes every 5 seconds; dots and swipe work
+- [ ] The red **Enquiry Now** tab on the right opens the popup form
+- [ ] The product tabs on the home page (Treadmills, Cross Trainers…) switch the products shown
 - [ ] Tap the hero dots and arrows — the carousel responds and keeps looping
 - [ ] Open the menu, tap a category, confirm the drawer closes on navigation
 
@@ -232,8 +234,9 @@ correctly.
 | Colours, spacing, typography | `assets/css/main.css` (tokens at the top) |
 | Product data (names, specs, descriptions) | `data/products.json` |
 | Blog articles | `data/articles.json` |
-| Which products appear in the hero carousel | `hero_slides()` in `includes/config.php` |
-| Hero carousel speed | `data-interval` on the hero in `index.php` (milliseconds) |
+| Home page banner slides (text, links, machines) | `$slides` near the top of `index.php` |
+| Banner slider speed | `data-interval` on the slider in `index.php` (milliseconds) |
+| Home page banner photos / partner logos | see section 9a below |
 | A product's photograph | replace the `.webp` in `assets/images/products/…` |
 
 ### Adding a new product
@@ -251,6 +254,38 @@ correctly.
 4. Add the URL to `sitemap.xml`
 
 ---
+
+## 9a. Home page banners and partner logos
+
+The home page banners are drawn in HTML/CSS from the product photos, so they
+look sharp on every screen and need no image files. You can replace any of them
+with your own artwork. No code changes are needed.
+
+Upload the image to **`public_html/assets/images/home/`** using these exact file
+names (`.webp`, `.jpg` or `.png`):
+
+| File name | Replaces |
+|---|---|
+| `slide-1` | Banner slide 1 (Molten Series) |
+| `slide-2` | Banner slide 2 (Commercial treadmills) |
+| `slide-3` | Banner slide 3 (Home gym) |
+| `banner-run` | The rounded treadmill banner under the category cards |
+| `banner-products` | The full-width "products to choose from" banner |
+
+For a different crop on phones, also upload `<name>-mobile.webp`, for example
+`slide-1-mobile.webp`. Recommended sizes are 1920 x 860 px for slides, 1100 x 470
+px for `banner-run` and 1920 x 840 px for `banner-products`.
+
+**Partner logos:** upload logo files to **`public_html/assets/images/partners/`**.
+The section heading changes to **"Our Fitness Partners"** and the logos appear
+automatically. The alt text comes from the file name, so name each file after the
+organisation, for example `gail-india-limited.png`. Prefix a number to set the
+order, for example `01-gail-india-limited.png`. While the folder is empty, the
+section shows the kinds of facility you equip instead. Only add logos you have
+permission to show.
+
+The transparent product cut-outs used in the banners live in
+`assets/images/home/cut/`.
 
 ## 10. Security notes
 
