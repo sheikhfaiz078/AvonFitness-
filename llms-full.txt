@@ -1,0 +1,958 @@
+# Avon Fitness Maharashtra — Full Site Overview
+
+Generated: 2026-09-17
+
+Website: https://avonfitnessmaharashtra.in
+
+
+## 1. Business
+
+Avon Fitness Maharashtra supplies, installs and services Avon Fitness gym equipment across the state
+of Maharashtra, India. The equipment is manufactured by Avon Fitness Machines Pvt. Ltd. of Ludhiana,
+Punjab. The manufacturer states that the Avon name has been trusted in India for over 75 years,
+having begun in bicycle component manufacturing before extending into fitness equipment.
+
+Contact: +91 77189 22901 (phone and WhatsApp), sales@pranadaequip.com
+Official profiles: https://www.facebook.com/AvonFitnessMaharashtra , https://www.instagram.com/avonfitnessmaharashtra/
+Manufacturer address: B-XXIX-476/9, Giaspura, Ludhiana, Punjab 141003, India
+Manufacturer enquiry desk: +91 87250 94200, enquiry@avonfitnessmachines.com
+Manufacturer service desk: service@avonfitnessmachines.com
+
+## 2. Services
+
+1. Gym planning — turning a brief (member numbers, opening hours, training style) into an equipment
+   specification.
+2. Space and layout planning — floor area, ceiling height, columns, ventilation, access route.
+3. Equipment selection — matching duty cycle to usage, and balancing selectorised, plate-loaded and
+   free-weight provision.
+4. Layout planning — zoning, circulation, clearances and sightlines marked on the customer's drawing.
+5. Equipment supply — one schedule, one order.
+6. Delivery — scheduled against site readiness with access verified in advance.
+7. Installation — assembly and positioning on site.
+8. Commissioning — testing, levelling and handover.
+9. After-sales support — service, spares and maintenance.
+
+Sectors served: commercial gyms and fitness clubs, hotels and resorts, corporate fitness centres,
+universities and institutions, sports and training facilities, government and PSU facilities,
+housing societies and community spaces, and home gyms.
+
+## 3. Taxonomy
+
+
+### Cardio Equipment — 157 products (https://avonfitnessmaharashtra.in/cardio/)
+
+- Treadmills (64 models): https://avonfitnessmaharashtra.in/cardio/treadmills/
+- Cross Trainers (20 models): https://avonfitnessmaharashtra.in/cardio/cross-trainers/
+- Upright Bikes (20 models): https://avonfitnessmaharashtra.in/cardio/upright-bikes/
+- Recumbent Bikes (17 models): https://avonfitnessmaharashtra.in/cardio/recumbent-bikes/
+- Spin Bikes (14 models): https://avonfitnessmaharashtra.in/cardio/spin-bikes/
+- Air Bikes (9 models): https://avonfitnessmaharashtra.in/cardio/air-bikes/
+- Massagers (6 models): https://avonfitnessmaharashtra.in/cardio/massagers/
+- Orbitracs (6 models): https://avonfitnessmaharashtra.in/cardio/orbitracs/
+- Magnetic X-Bikes (1 models): https://avonfitnessmaharashtra.in/cardio/magnetic-x-bikes/
+
+### Strength Equipment — 431 products (https://avonfitnessmaharashtra.in/strength/)
+
+- Multi Stations (52 models): https://avonfitnessmaharashtra.in/strength/multi-stations/
+- Fit Fighter Pro Series (44 models): https://avonfitnessmaharashtra.in/strength/fit-fighter-pro-series/
+- PL Series (38 models): https://avonfitnessmaharashtra.in/strength/pl-series/
+- Rhino Max Series (25 models): https://avonfitnessmaharashtra.in/strength/rhino-max-series/
+- Mynd Series (24 models): https://avonfitnessmaharashtra.in/strength/mynd-series/
+- Rafale Series (20 models): https://avonfitnessmaharashtra.in/strength/rafale-series/
+- Rhino Plus Series (19 models): https://avonfitnessmaharashtra.in/strength/rhino-plus-series/
+- Muscle Toner Series (17 models): https://avonfitnessmaharashtra.in/strength/muscle-toner-series/
+- Tiger Series (15 models): https://avonfitnessmaharashtra.in/strength/tiger-series/
+- Fit Fighter Series (14 models): https://avonfitnessmaharashtra.in/strength/fit-fighter-series/
+- Hi-Tech Series (14 models): https://avonfitnessmaharashtra.in/strength/hi-tech-series/
+- Molten Series (14 models): https://avonfitnessmaharashtra.in/strength/molten-series/
+- Roger Series (14 models): https://avonfitnessmaharashtra.in/strength/roger-series/
+- CC Series (13 models): https://avonfitnessmaharashtra.in/strength/cc-series/
+- Elite Series (13 models): https://avonfitnessmaharashtra.in/strength/elite-series/
+- Benches (12 models): https://avonfitnessmaharashtra.in/strength/benches/
+- Home Gym Stations (12 models): https://avonfitnessmaharashtra.in/strength/home-gym-stations/
+- Axe Series (11 models): https://avonfitnessmaharashtra.in/strength/axe-series/
+- Multi Gyms (9 models): https://avonfitnessmaharashtra.in/strength/multi-gyms/
+- Fit Fighter MII Series (8 models): https://avonfitnessmaharashtra.in/strength/fit-fighter-mii-series/
+- Racks & Stands (8 models): https://avonfitnessmaharashtra.in/strength/racks-stands/
+- Dumbbells (7 models): https://avonfitnessmaharashtra.in/strength/dumbbells/
+- Anatomy Series (6 models): https://avonfitnessmaharashtra.in/strength/anatomy-series/
+- Benj Series (6 models): https://avonfitnessmaharashtra.in/strength/benj-series/
+- Flex Series (5 models): https://avonfitnessmaharashtra.in/strength/flex-series/
+- Weight Plates (5 models): https://avonfitnessmaharashtra.in/strength/plates/
+- Tejas Series (3 models): https://avonfitnessmaharashtra.in/strength/tejas-series/
+- Twisters (3 models): https://avonfitnessmaharashtra.in/strength/twisters/
+
+### Outdoor Gym Equipment — 22 products (https://avonfitnessmaharashtra.in/outdoor-gym/)
+
+
+### Gym Accessories — 84 products (https://avonfitnessmaharashtra.in/accessories/)
+
+
+## 4. Segments
+
+- Commercial & Home: 65 products
+- Home: 152 products
+- Commercial: 455 products
+- Outdoor: 22 products
+
+## 5. Specification fields published
+
+Where the manufacturer publishes them, product pages carry these fields:
+
+Cardio — AC Motor / DC Motor / BLDC Motor (continuous / peak HP), Speed Range, Incline,
+Running Area, Max User Weight, Console / Monitor, Programs, MP3 & USB, Folding, Holders,
+Resistance, Flywheel, Crank, Saddle, Pedals, Drive, Dimensions (L x W x H), Net / Gross Weight.
+
+Strength — Frame Tube, Weight Stack, Cable, Cover, Seat Cushion, Finish, End Caps, Pulley, Type,
+Dimensions (L x W x H), Net / Gross Weight.
+
+If a field does not appear on a product page, it is not published by the manufacturer for that model.
+Do not estimate or infer missing values.
+
+## 6. Product index
+
+
+### Gym Accessories (65)
+
+- 28 mm Bar — https://avonfitnessmaharashtra.in/product/28-mm-bar/
+- AW-10 Ankle / Wrist Weight [AW-10] — https://avonfitnessmaharashtra.in/product/aw-10-ankle-wrist-weight/
+- AW-15 Ankle / Wrist Weight [AW-15] — https://avonfitnessmaharashtra.in/product/aw-15-ankle-wrist-weight/
+- Ab Wheel — https://avonfitnessmaharashtra.in/product/ab-wheel/
+- BT-204 Solid Biceps Triceps Handle [BT-204] — https://avonfitnessmaharashtra.in/product/bt-204-solid-biceps-triceps-handle/
+- Banana Bag — https://avonfitnessmaharashtra.in/product/banana-bag/
+- Boxing Gloves — https://avonfitnessmaharashtra.in/product/boxing-gloves/
+- Boxing Hand Grip Cotton — https://avonfitnessmaharashtra.in/product/boxing-hand-grip-cotton/
+- Boxing Training Gloves — https://avonfitnessmaharashtra.in/product/boxing-training-gloves/
+- Chin-up Bar — https://avonfitnessmaharashtra.in/product/chin-up-bar/
+- Clapper Pad — https://avonfitnessmaharashtra.in/product/clapper-pad/
+- Cone — https://avonfitnessmaharashtra.in/product/cone/
+- D Handle with Metal Grip — https://avonfitnessmaharashtra.in/product/d-handle-with-metal-grip/
+- Fix EZ Barbell Set — https://avonfitnessmaharashtra.in/product/fix-ez-barbell-set/
+- Fix Straight Barbell Set — https://avonfitnessmaharashtra.in/product/fix-straight-barbell-set/
+- Foam Hand Grip — https://avonfitnessmaharashtra.in/product/foam-hand-grip/
+- Focus Pad — https://avonfitnessmaharashtra.in/product/focus-pad/
+- GG-106 Gym Gloves [GG-106] — https://avonfitnessmaharashtra.in/product/gg-106-gym-gloves/
+- Gym Leather Gloves — https://avonfitnessmaharashtra.in/product/gym-leather-gloves/
+- Gym Tuff Flooring — https://avonfitnessmaharashtra.in/product/gym-tuff-flooring/
+- Hand Sanitizer Dispenser Stand — https://avonfitnessmaharashtra.in/product/hand-sanitizer-dispenser-stand/
+- Heavy Duty Solid Swiss Bar (77") — https://avonfitnessmaharashtra.in/product/heavy-duty-solid-swiss-bar-77/
+- Iron Straps — https://avonfitnessmaharashtra.in/product/iron-straps/
+- Kettle Bag — https://avonfitnessmaharashtra.in/product/kettle-bag/
+- MB-116 Medicine Ball [MB-116] — https://avonfitnessmaharashtra.in/product/mb-116-medicine-ball/
+- MG-218 Multi Grip T-bar Solid Handle [MG-218] — https://avonfitnessmaharashtra.in/product/mg-218-multi-grip-t-bar-solid-handle/
+- Medicine Ball — https://avonfitnessmaharashtra.in/product/medicine-ball/
+- Olympic Bar with Bearing — https://avonfitnessmaharashtra.in/product/olympic-bar-with-bearing/
+- Olympic Curl Bar with Bearing — https://avonfitnessmaharashtra.in/product/olympic-curl-bar-with-bearing/
+- Olympic Special Shape Rod (34") — https://avonfitnessmaharashtra.in/product/olympic-special-shape-rod-34/
+- Olympic Triceps Bar with Lock (34") — https://avonfitnessmaharashtra.in/product/olympic-triceps-bar-with-lock-34/
+- Polyester Battle Rope — https://avonfitnessmaharashtra.in/product/polyester-battle-rope/
+- Power Weight Lifting Belt — https://avonfitnessmaharashtra.in/product/power-weight-lifting-belt/
+- Pp Battle Rope — https://avonfitnessmaharashtra.in/product/pp-battle-rope/
+- Professional Weight Lifting Belt — https://avonfitnessmaharashtra.in/product/professional-weight-lifting-belt/
+- Professional Weight Lifting Lever Buckle Belt — https://avonfitnessmaharashtra.in/product/professional-weight-lifting-lever-buckle-belt/
+- Punching Stand — https://avonfitnessmaharashtra.in/product/punching-stand/
+- Push Up Stands — https://avonfitnessmaharashtra.in/product/push-up-stands/
+- Rowing Handle with PVC Grip — https://avonfitnessmaharashtra.in/product/rowing-handle-with-pvc-grip/
+- ST-062 Suspension Training System with Bag [ST-062] — https://avonfitnessmaharashtra.in/product/st-062-suspension-training-system-with-bag/
+- ST-063 Suspension Training System with Bag [ST-063] — https://avonfitnessmaharashtra.in/product/st-063-suspension-training-system-with-bag/
+- ST-064 Suspension Training System with Bag [ST-064] — https://avonfitnessmaharashtra.in/product/st-064-suspension-training-system-with-bag/
+- Sand Bell — https://avonfitnessmaharashtra.in/product/sand-bell/
+- Sled Dawg — https://avonfitnessmaharashtra.in/product/sled-dawg/
+- Special Lat Pull Down Handle (34") — https://avonfitnessmaharashtra.in/product/special-lat-pull-down-handle-34/
+- Special Triceps Handle — https://avonfitnessmaharashtra.in/product/special-triceps-handle/
+- Speed Bag — https://avonfitnessmaharashtra.in/product/speed-bag/
+- Speed Ball Stand Set — https://avonfitnessmaharashtra.in/product/speed-ball-stand-set/
+- Speed Parachute — https://avonfitnessmaharashtra.in/product/speed-parachute/
+- Steel Blaster — https://avonfitnessmaharashtra.in/product/steel-blaster/
+- Strength Power Bag — https://avonfitnessmaharashtra.in/product/strength-power-bag/
+- Tpe Yoga Mat — https://avonfitnessmaharashtra.in/product/tpe-yoga-mat/
+- WLB-094 PRO Professional Weight Lifting Belt [WLB-094 PRO] — https://avonfitnessmaharashtra.in/product/wlb-094-pro-professional-weight-lifting-belt/
+- Wall Ball — https://avonfitnessmaharashtra.in/product/wall-ball/
+- Weight Bar — https://avonfitnessmaharashtra.in/product/weight-bar/
+- Weight Jacket — https://avonfitnessmaharashtra.in/product/weight-jacket/
+- Weight Lifting Belt — https://avonfitnessmaharashtra.in/product/weight-lifting-belt/
+- Weight Lifting Embossed Gym Belt — https://avonfitnessmaharashtra.in/product/weight-lifting-embossed-gym-belt/
+- Weight Lifting Leather Belt — https://avonfitnessmaharashtra.in/product/weight-lifting-leather-belt/
+- Weight Lifting Straps — https://avonfitnessmaharashtra.in/product/weight-lifting-straps/
+- Wiper Body Weight Training — https://avonfitnessmaharashtra.in/product/wiper-body-weight-training/
+- Wood Olympic Ring — https://avonfitnessmaharashtra.in/product/wood-olympic-ring/
+- Wooden Hand Grip — https://avonfitnessmaharashtra.in/product/wooden-hand-grip/
+- Wrist Support Hooks — https://avonfitnessmaharashtra.in/product/wrist-support-hooks/
+- Yoga Rope — https://avonfitnessmaharashtra.in/product/yoga-rope/
+
+### Other Fitness Equipment (19)
+
+- 2d Massage Chair — https://avonfitnessmaharashtra.in/product/2d-massage-chair/ | Dimensions (L x W x H): 1570x575x160 mm &
+- 3d Massage Chair — https://avonfitnessmaharashtra.in/product/3d-massage-chair/
+- 3d Massage Chair — https://avonfitnessmaharashtra.in/product/3d-massage-chair-2/
+- 3d Massage Chair — https://avonfitnessmaharashtra.in/product/3d-massage-chair-3/
+- 3d Massage Chair — https://avonfitnessmaharashtra.in/product/3d-massage-chair-4/
+- Air Rower — https://avonfitnessmaharashtra.in/product/air-rower/
+- Air Rower — https://avonfitnessmaharashtra.in/product/air-rower-2/
+- Centrifugal Impedance Trainer — https://avonfitnessmaharashtra.in/product/centrifugal-impedance-trainer/
+- Commercial Fan Machine — https://avonfitnessmaharashtra.in/product/commercial-fan-machine/
+- Flip Tyre — https://avonfitnessmaharashtra.in/product/flip-tyre/
+- Multi Functional Power Squat Rack — https://avonfitnessmaharashtra.in/product/multi-functional-power-squat-rack/
+- SC-155 Commercial Fitness Unit [SC-155] — https://avonfitnessmaharashtra.in/product/sc-155-commercial-fitness-unit/
+- SC-57 Commercial Fitness Unit [SC-57] — https://avonfitnessmaharashtra.in/product/sc-57-commercial-fitness-unit/ | Console / Monitor: Time, Speed; Dimensions (L x W x H): 1450x880x2140 mm; Net / Gross Weight: 166 Kg. / 204 Kg
+- Sauna Room with Oxygen Therapy (2 Person) — https://avonfitnessmaharashtra.in/product/sauna-room-with-oxygen-therapy-2-person/
+- Sauna Room with Oxygen Therapy (4 Person) — https://avonfitnessmaharashtra.in/product/sauna-room-with-oxygen-therapy-4-person/
+- Ski Machine — https://avonfitnessmaharashtra.in/product/ski-machine/
+- Stair Climber — https://avonfitnessmaharashtra.in/product/stair-climber/ | Console / Monitor: Time, Speed; Dimensions (L x W x H): 1400x750x2070 mm; Net / Gross Weight: 142 Kg. / 173 Kg. 21
+- Tank Trolley with Basket — https://avonfitnessmaharashtra.in/product/tank-trolley-with-basket/
+- WT-1721 Water Rower (Wood) [WT-1721] — https://avonfitnessmaharashtra.in/product/wt-1721-water-rower-wood/ | Console / Monitor: Time, Speed, Distance; Resistance: Magnetic Adjustable; Dimensions (L x W x H): 2160x560x570 mm
+
+### Air Bikes (9)
+
+- AB-1408 Air Bike (AB-1408) [AB-1408] — https://avonfitnessmaharashtra.in/product/ab-1408-air-bike-ab-1408/ | Console / Monitor: Time, Speed, Distance, Calories; Resistance: Micro Resistance Levels Adjustable Control; Net / Gross Weight: 13.95 Kg. / 16.2 Kg
+- AB-1413 Air Bike (AB-1413 M) [AB-1413] — https://avonfitnessmaharashtra.in/product/ab-1413-air-bike-ab-1413-m/
+- AB-1413 Air Bike (AB-1413) [AB-1413] — https://avonfitnessmaharashtra.in/product/ab-1413-air-bike-ab-1413/
+- AB-1414 Air Bike (AB-1414) [AB-1414] — https://avonfitnessmaharashtra.in/product/ab-1414-air-bike-ab-1414/
+- AB-1415 Air Bike (AB-1415 M) [AB-1415] — https://avonfitnessmaharashtra.in/product/ab-1415-air-bike-ab-1415-m/
+- AB-1415 Air Bike (AB-1415) [AB-1415] — https://avonfitnessmaharashtra.in/product/ab-1415-air-bike-ab-1415/
+- AB-1416 Air Bike (AB-1416 M) [AB-1416] — https://avonfitnessmaharashtra.in/product/ab-1416-air-bike-ab-1416-m/
+- AB-1416 Air Bike (AB-1416) [AB-1416] — https://avonfitnessmaharashtra.in/product/ab-1416-air-bike-ab-1416/
+- Small Pedal Bike (PB-1404) — https://avonfitnessmaharashtra.in/product/small-pedal-bike-pb-1404/
+
+### Cross Trainers (20)
+
+- CT-562 Home Cross Trainer [CT-562] — https://avonfitnessmaharashtra.in/product/ct-562-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- CT-570 Home Cross Trainer [CT-570] — https://avonfitnessmaharashtra.in/product/ct-570-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels & HDR Foam Grip
+- CT-575 NEW Home Cross Trainer [CT-575 NEW] — https://avonfitnessmaharashtra.in/product/ct-575-new-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels & HDR Foam Grip
+- CT-577 Home Cross Trainer [CT-577] — https://avonfitnessmaharashtra.in/product/ct-577-home-cross-trainer/
+- CT-580 Home Cross Trainer [CT-580] — https://avonfitnessmaharashtra.in/product/ct-580-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Scan, ODO; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels
+- CT-581 Home Cross Trainer [CT-581] — https://avonfitnessmaharashtra.in/product/ct-581-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 16 Fitness Levels
+- CT-583 Home Cross Trainer [CT-583] — https://avonfitnessmaharashtra.in/product/ct-583-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- CT-586 Home Cross Trainer [CT-586] — https://avonfitnessmaharashtra.in/product/ct-586-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels
+- CT-588 Home Cross Trainer [CT-588] — https://avonfitnessmaharashtra.in/product/ct-588-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels
+- CT-590 Home Cross Trainer [CT-590] — https://avonfitnessmaharashtra.in/product/ct-590-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- CT-592 NEW Home Cross Trainer [CT-592 NEW] — https://avonfitnessmaharashtra.in/product/ct-592-new-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels
+- CT-593 Home Cross Trainer [CT-593] — https://avonfitnessmaharashtra.in/product/ct-593-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate; Programs: 13 Preset Programs; Resistance: Motorized Adjustable Workout Resistance with 16 Fitness Levels
+- CT-594 NEW Home Cross Trainer [CT-594 NEW] — https://avonfitnessmaharashtra.in/product/ct-594-new-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate; Programs: 4 User Programs; Resistance: Motorized Adjustable Workout Resistance with 16 Fitness Levels
+- CT-595 Home Cross Trainer [CT-595] — https://avonfitnessmaharashtra.in/product/ct-595-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- CT-596 NEW Home Cross Trainer [CT-596 NEW] — https://avonfitnessmaharashtra.in/product/ct-596-new-home-cross-trainer/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate; Programs: 4 User Programs; Resistance: Motorized Adjustable Workout Resistance with 16 Fitness Levels
+- CT-600 Home Cross Trainer [CT-600] — https://avonfitnessmaharashtra.in/product/ct-600-home-cross-trainer/
+- CT-612 NEW Commercial Cross Trainer [CT-612 NEW] — https://avonfitnessmaharashtra.in/product/ct-612-new-commercial-cross-trainer/ | Crank: RESISTANCE; Programs: 9 Preset; Dimensions (L x W x H): 2080x750x1635 mm
+- CT-615 Commercial Cross Trainer [CT-615] — https://avonfitnessmaharashtra.in/product/ct-615-commercial-cross-trainer/ | Crank: RESISTANCE; Programs: 8 Preset; Dimensions (L x W x H): 2150x720x1900 mm
+- CT-654 PRO Commercial Cross Trainer [CT-654 PRO] — https://avonfitnessmaharashtra.in/product/ct-654-pro-commercial-cross-trainer/ | Crank: RESISTANCE; Programs: 7 Preset; Dimensions (L x W x H): 2100x640x1800 mm
+- CT-656 NEW Commercial Cross Trainer [CT-656 NEW] — https://avonfitnessmaharashtra.in/product/ct-656-new-commercial-cross-trainer/ | Crank: RESISTANCE; Programs: 8 Preset; Dimensions (L x W x H): 2150x720x1900 mm
+
+### Magnetic X-Bikes (1)
+
+- Avon Magnetic Exercise Cycle X Bike-925 — https://avonfitnessmaharashtra.in/product/avon-magnetic-exercise-cycle-x-bike-925/
+
+### Massagers (6)
+
+- Calf Leg Massager — https://avonfitnessmaharashtra.in/product/calf-leg-massager/
+- Crazy Fit Massager — https://avonfitnessmaharashtra.in/product/crazy-fit-massager/
+- Foot Massager — https://avonfitnessmaharashtra.in/product/foot-massager/
+- LM-1544 Leg Massager [LM-1544] — https://avonfitnessmaharashtra.in/product/lm-1544-leg-massager/
+- LM-1546 Leg Massager [LM-1546] — https://avonfitnessmaharashtra.in/product/lm-1546-leg-massager/
+- Super Crazy Fit Massager — https://avonfitnessmaharashtra.in/product/super-crazy-fit-massager/
+
+### Orbitracs (6)
+
+- Elliptical Orbitrac (OB-1481 K New) — https://avonfitnessmaharashtra.in/product/elliptical-orbitrac-ob-1481-k-new/
+- OB-1424 Elliptical Orbitrac (OB-1424) [OB-1424] — https://avonfitnessmaharashtra.in/product/ob-1424-elliptical-orbitrac-ob-1424/ | Console / Monitor: Time, Speed, Distance, Calories; Resistance: Manual Resistance Levels Adjustable System; Net / Gross Weight: 27 Kg. / 29.4 Kg
+- OB-1425 Elliptical Orbitrac (OB-1425) [OB-1425] — https://avonfitnessmaharashtra.in/product/ob-1425-elliptical-orbitrac-ob-1425/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Resistance: Manual Resistance Levels Adjustable System; Net / Gross Weight: 30 Kg. / 32 Kg
+- OB-1426 Elliptical Orbitrac (OB-1426) [OB-1426] — https://avonfitnessmaharashtra.in/product/ob-1426-elliptical-orbitrac-ob-1426/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Resistance: Manual Resistance Levels Adjustable System; Net / Gross Weight: 29.2 Kg. / 31.2 Kg
+- OB-1431 Elliptical Orbitrac (OB-1431 K) [OB-1431] — https://avonfitnessmaharashtra.in/product/ob-1431-elliptical-orbitrac-ob-1431-k/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Resistance: Manual Resistance Levels Adjustable System; Net / Gross Weight: 26 Kg. / 28.2 Kg
+- OB-1461 Orbitrac with Steel Wheel (OB-1461 K) [OB-1461] — https://avonfitnessmaharashtra.in/product/ob-1461-orbitrac-with-steel-wheel-ob-1461-k/
+
+### Recumbent Bikes (17)
+
+- REC-722 Home Recumbent Bike [REC-722] — https://avonfitnessmaharashtra.in/product/rec-722-home-recumbent-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels
+- REC-723 Home Recumbent Bike [REC-723] — https://avonfitnessmaharashtra.in/product/rec-723-home-recumbent-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Scan, ODO; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- REC-770 Home Recumbent Bike [REC-770] — https://avonfitnessmaharashtra.in/product/rec-770-home-recumbent-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate; Programs: No Preset Programs; Net / Gross Weight: 24.7 Kg. / 28.5 Kg
+- REC-772 Home Recumbent Bike [REC-772] — https://avonfitnessmaharashtra.in/product/rec-772-home-recumbent-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate, Scan, ODO; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 16 Fitness Levels
+- REC-773 Home Recumbent Bike [REC-773] — https://avonfitnessmaharashtra.in/product/rec-773-home-recumbent-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels; Net / Gross Weight: 33 Kg. / 37.6 Kg
+- REC-775 NEW Home Recumbent Bike [REC-775 NEW] — https://avonfitnessmaharashtra.in/product/rec-775-new-home-recumbent-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate; Resistance: Manual Adjustable Workout Resistance with 16 Fitness Levels; Net / Gross Weight: 38 Kg. / 45.8 Kg
+- REC-776 Home Recumbent Bike [REC-776] — https://avonfitnessmaharashtra.in/product/rec-776-home-recumbent-bike/ | Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels; Net / Gross Weight: 43 Kg. / 49.5 Kg
+- REC-790 Rec-790p [REC-790] — https://avonfitnessmaharashtra.in/product/rec-790-rec-790p/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate, Bodyfat; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- REC-792 Home Recumbent Bike [REC-792] — https://avonfitnessmaharashtra.in/product/rec-792-home-recumbent-bike/
+- REC-794 Home Recumbent Bike [REC-794] — https://avonfitnessmaharashtra.in/product/rec-794-home-recumbent-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels
+- REC-796 Home Recumbent Bike [REC-796] — https://avonfitnessmaharashtra.in/product/rec-796-home-recumbent-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- REC-815 Home Recumbent Bike [REC-815] — https://avonfitnessmaharashtra.in/product/rec-815-home-recumbent-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Scan, ODO; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels
+- REC-818 Home Recumbent Bike [REC-818] — https://avonfitnessmaharashtra.in/product/rec-818-home-recumbent-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: 13 Preset Programs; Resistance: Motorized Adjustable Workout Resistance with 16 Fitness Levels
+- REC-820 Commercial Recumbent Bike [REC-820] — https://avonfitnessmaharashtra.in/product/rec-820-commercial-recumbent-bike/
+- REC-831 REC-831 Gen [REC-831] — https://avonfitnessmaharashtra.in/product/rec-831-rec-831-gen/
+- REC-831 REC-831 a [REC-831] — https://avonfitnessmaharashtra.in/product/rec-831-rec-831-a/
+- REC-832 REC-832P [REC-832] — https://avonfitnessmaharashtra.in/product/rec-832-rec-832p/ | Crank: RESISTANCE; Programs: 6 Preset (2 User); Saddle: Horizontally Adjustable
+
+### Spin Bikes (14)
+
+- AB-636 Air Bike [AB-636] — https://avonfitnessmaharashtra.in/product/ab-636-air-bike/ | Flywheel: BRAKES; Saddle: HANDLE BAR; Console / Monitor: Time, Speed, Distance
+- SP-2206 Home Spin Bike [SP-2206] — https://avonfitnessmaharashtra.in/product/sp-2206-home-spin-bike/ | Console / Monitor: Time, Speed, Distance, Calories; Drive: Belt Drive; Pedals: Aluminium Pedals
+- SP-2207 Home Spin Bike [SP-2207] — https://avonfitnessmaharashtra.in/product/sp-2207-home-spin-bike/ | Console / Monitor: Time, Speed, Distance, Calories; Drive: Driven by Belt; Pedals: Plastic Pedals
+- SP-2208 Home Spin Bike [SP-2208] — https://avonfitnessmaharashtra.in/product/sp-2208-home-spin-bike/ | Console / Monitor: Time, Speed, Distance, Calories; Drive: Belt Drive; Pedals: Aluminium Pedals
+- SP-2209 Home Spin Bike [SP-2209] — https://avonfitnessmaharashtra.in/product/sp-2209-home-spin-bike/ | Console / Monitor: Time, Speed, Distance, Calories; Drive: Belt Drive; Pedals: Plastic Pedals
+- SP-2218 NEW Home Spin Bike [SP-2218 NEW] — https://avonfitnessmaharashtra.in/product/sp-2218-new-home-spin-bike/ | Console / Monitor: Time, Speed, Distance, Calories; Drive: Belt Drive; Pedals: Aluminium Pedals
+- SP-2284 Commercial Spin Bike [SP-2284] — https://avonfitnessmaharashtra.in/product/sp-2284-commercial-spin-bike/ | Flywheel: BRAKES; Saddle: HANDLE BAR; Crank: 3 Pcs
+- SP-2285 Commercial Spin Bike [SP-2285] — https://avonfitnessmaharashtra.in/product/sp-2285-commercial-spin-bike/
+- SP-2286 Commercial Spin Bike [SP-2286] — https://avonfitnessmaharashtra.in/product/sp-2286-commercial-spin-bike/ | Flywheel: BRAKES; Saddle: HANDLE BAR; Crank: 3 Pcs
+- SP-2287 SP-2287 Black [SP-2287] — https://avonfitnessmaharashtra.in/product/sp-2287-sp-2287-black/
+- SP-2290 Commercial Spin Bike [SP-2290] — https://avonfitnessmaharashtra.in/product/sp-2290-commercial-spin-bike/
+- SP-2294 Commercial Spin Bike [SP-2294] — https://avonfitnessmaharashtra.in/product/sp-2294-commercial-spin-bike/ | Flywheel: BRAKES; Saddle: HANDLE BAR; Crank: 3 Pcs
+- SP-2296 Commercial Spin Bike [SP-2296] — https://avonfitnessmaharashtra.in/product/sp-2296-commercial-spin-bike/ | Flywheel: BRAKES; Saddle: HANDLE BAR; Console / Monitor: Time, Speed, Distance
+- SP-2300 Commercial Spin Bike [SP-2300] — https://avonfitnessmaharashtra.in/product/sp-2300-commercial-spin-bike/ | Flywheel: BRAKES; Saddle: HANDLE BAR; Crank: 3 Pcs
+
+### Treadmills (64)
+
+- CC-100 Commercial Treadmill [CC-100] — https://avonfitnessmaharashtra.in/product/cc-100-commercial-treadmill/
+- CC-100 PRO Commercial Treadmill [CC-100 PRO] — https://avonfitnessmaharashtra.in/product/cc-100-pro-commercial-treadmill/ | Console / Monitor: Time, Speed, Distance; Dimensions (L x W x H): 1800x835x1530 mm; Net / Gross Weight: 172 Kg. / 185 Kg
+- J-1535 Home Treadmill [J-1535] — https://avonfitnessmaharashtra.in/product/j-1535-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories; Programs: No Preset Programs; Folding: Foldable by Manual Knob Lock Adjustment
+- MTWW-150 Commercial Treadmill [MTWW-150] — https://avonfitnessmaharashtra.in/product/mtww-150-commercial-treadmill/
+- MTWW-160 Commercial Treadmill [MTWW-160] — https://avonfitnessmaharashtra.in/product/mtww-160-commercial-treadmill/ | Dimensions (L x W x H): 1950x1550x1820 mm; Net / Gross Weight: 182 Kg. / 232 Kg. 8; Running Area: 1550x550 MM (APPROX)
+- TM-1000 Commercial Treadmill [TM-1000] — https://avonfitnessmaharashtra.in/product/tm-1000-commercial-treadmill/ | Programs: 64 Preset; MP3 & USB: No; Dimensions (L x W x H): 2140x870x1610 mm
+- TM-104 Home Treadmill [TM-104] — https://avonfitnessmaharashtra.in/product/tm-104-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Scan, Pulse; Programs: 12 Preset Programs; Folding: Importantly (No Hydraulic Cylinder)
+- TM-116 Home Treadmill [TM-116] — https://avonfitnessmaharashtra.in/product/tm-116-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Scan, Pulse; Programs: 12 Preset Programs; Folding: Foldable by Cylinder
+- TM-131 Home Treadmill [TM-131] — https://avonfitnessmaharashtra.in/product/tm-131-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Bluetooth, Touch LED Display; Programs: 12 Preset Programs; Folding: Foldable by Cylinder
+- TM-147 Home Treadmill [TM-147] — https://avonfitnessmaharashtra.in/product/tm-147-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Scan, Pulse; Programs: 12 Preset Programs; Folding: Foldable by Cylinder
+- TM-154 Home Treadmill [TM-154] — https://avonfitnessmaharashtra.in/product/tm-154-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Bluetooth, Panel Display Functions; Programs: 40 Preset Programs (User U1-U5); Folding: Foldable by Cylinder
+- TM-155 AC Home Treadmill [TM-155 AC] — https://avonfitnessmaharashtra.in/product/tm-155-ac-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand LED Display, Bluetooth & Speakers; Programs: 40 Preset Programs + 1-5 User Modes; Folding: Foldable by Cylinder
+- TM-155 DC Home Treadmill [TM-155 DC] — https://avonfitnessmaharashtra.in/product/tm-155-dc-home-treadmill/ | DC Motor: 2 HP / 4 HP; Speed Range: 1.0 - 14.0 Km/h; Incline: 0 - 12% Automatic
+- TM-157 BK Home Treadmill [TM-157 BK] — https://avonfitnessmaharashtra.in/product/tm-157-bk-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand; Programs: 12 Preset Programs; Folding: Foldable by Cylinder
+- TM-158 NEW Home Treadmill [TM-158 NEW] — https://avonfitnessmaharashtra.in/product/tm-158-new-home-treadmill/
+- TM-161 NEW Home Treadmill [TM-161 NEW] — https://avonfitnessmaharashtra.in/product/tm-161-new-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Scan, Pulse; Programs: 12 Preset Programs; Folding: Foldable by Cylinder
+- TM-162 Home Treadmill [TM-162] — https://avonfitnessmaharashtra.in/product/tm-162-home-treadmill/
+- TM-163 Home Treadmill [TM-163] — https://avonfitnessmaharashtra.in/product/tm-163-home-treadmill/
+- TM-166 NEW Home Treadmill [TM-166 NEW] — https://avonfitnessmaharashtra.in/product/tm-166-new-home-treadmill/
+- TM-167 BK Home Treadmill [TM-167 BK] — https://avonfitnessmaharashtra.in/product/tm-167-bk-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories; Programs: 12 Preset Programs; Folding: Foldable by Cylinder
+- TM-169 Home Treadmill [TM-169] — https://avonfitnessmaharashtra.in/product/tm-169-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Bluetooth, Fan, Vol- & Vol+, Play/Pause; Programs: 12 Preset Programs (Max P16); Net / Gross Weight: 69.3 Kg. / 80.5 Kg
+- TM-170 NEW Home Treadmill [TM-170 NEW] — https://avonfitnessmaharashtra.in/product/tm-170-new-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Bluetooth, Panel Display Functions; Programs: 40 Preset Programs (User U1-U5); Folding: Foldable by Cylinder
+- TM-2000 Commercial Treadmill [TM-2000] — https://avonfitnessmaharashtra.in/product/tm-2000-commercial-treadmill/ | Programs: 24 Preset; MP3 & USB: Yes (Bluetooth); Dimensions (L x W x H): 2133x890x1640 mm
+- TM-206 Home Treadmill [TM-206] — https://avonfitnessmaharashtra.in/product/tm-206-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Panel Display Functions; Programs: 40 Preset Programs (User U1-U5); Folding: Foldable by Cylinder
+- TM-214 Home Treadmill [TM-214] — https://avonfitnessmaharashtra.in/product/tm-214-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Body Fat, LED Console, Bluetooth & Speakers; Programs: 64 Preset Programs (3 User Programs); Folding: Foldable by Cylinder
+- TM-215 Home Treadmill [TM-215] — https://avonfitnessmaharashtra.in/product/tm-215-home-treadmill/
+- TM-218 Home Treadmill [TM-218] — https://avonfitnessmaharashtra.in/product/tm-218-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Fan; Programs: 64 Preset Programs; Folding: Foldable by Cylinder
+- TM-226 Home Treadmill [TM-226] — https://avonfitnessmaharashtra.in/product/tm-226-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Bluetooth, Panel Display Functions; Programs: 40 Preset Programs (User U1-U5); Folding: Foldable by Cylinder
+- TM-235 Home Treadmill [TM-235] — https://avonfitnessmaharashtra.in/product/tm-235-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Panel Display Functions; Programs: 60 Preset Programs (User U1-U5) + Fat; Folding: Foldable by Cylinder
+- TM-251 TM-251 Multi [TM-251] — https://avonfitnessmaharashtra.in/product/tm-251-tm-251-multi/
+- TM-260 Home Treadmill [TM-260] — https://avonfitnessmaharashtra.in/product/tm-260-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand LED Display, Bluetooth & Speakers; Programs: 16 Preset Programs; Folding: Foldable by Cylinder
+- TM-280 DC Home Treadmill [TM-280 DC] — https://avonfitnessmaharashtra.in/product/tm-280-dc-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand LED Display, Bluetooth & Speakers; Programs: 16 Preset Programs; Folding: Foldable by Cylinder
+- TM-280 Home Treadmill [TM-280] — https://avonfitnessmaharashtra.in/product/tm-280-home-treadmill/
+- TM-300 NEW Home Treadmill [TM-300 NEW] — https://avonfitnessmaharashtra.in/product/tm-300-new-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Bluetooth, Body Fat; Programs: 15 Preset Programs (3 User Programs); Folding: Foldable by Cylinder
+- TM-3000 Commercial Treadmill [TM-3000] — https://avonfitnessmaharashtra.in/product/tm-3000-commercial-treadmill/ | Programs: 17 Preset (20 Users); Dimensions (L x W x H): 2133x890x1640 mm; Net / Gross Weight: 190 Kg. / 235 Kg
+- TM-302 PRO Home Treadmill [TM-302 PRO] — https://avonfitnessmaharashtra.in/product/tm-302-pro-home-treadmill/
+- TM-303 Home Treadmill [TM-303] — https://avonfitnessmaharashtra.in/product/tm-303-home-treadmill/
+- TM-304 Home Treadmill [TM-304] — https://avonfitnessmaharashtra.in/product/tm-304-home-treadmill/
+- TM-304 K Home Treadmill [TM-304 K] — https://avonfitnessmaharashtra.in/product/tm-304-k-home-treadmill/
+- TM-305 Home Treadmill [TM-305] — https://avonfitnessmaharashtra.in/product/tm-305-home-treadmill/
+- TM-306 K Home Treadmill [TM-306 K] — https://avonfitnessmaharashtra.in/product/tm-306-k-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, 7 Inch Blue Backlight LCD, Bluetooth & Speakers; Programs: 14 Preset Programs (3 User Programs)+Bodyfight; Folding: Foldable by Cylinder
+- TM-307 NEW Home Treadmill [TM-307 NEW] — https://avonfitnessmaharashtra.in/product/tm-307-new-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Bluetooth, Body Fat, Matrix LED Display; Programs: 15 Preset Programs (3 User Programs); Folding: Non-Foldable
+- TM-308 Home Treadmill [TM-308] — https://avonfitnessmaharashtra.in/product/tm-308-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Body Fat; Programs: 60 Preset Programs (5 User Modes); Folding: Foldable by Cylinder
+- TM-318 Home Treadmill [TM-318] — https://avonfitnessmaharashtra.in/product/tm-318-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, Body Fat; Programs: 60 Preset Programs (5 User Modes); Folding: Foldable by Cylinder
+- TM-319 Home Treadmill [TM-319] — https://avonfitnessmaharashtra.in/product/tm-319-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, LED Display; Programs: 64 Preset Programs (3 User Set); Folding: Foldable by Cylinder
+- TM-320 AC Home Treadmill [TM-320 AC] — https://avonfitnessmaharashtra.in/product/tm-320-ac-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, 6 LED Display, Bluetooth & Speakers; Programs: 12 Preset Programs; Folding: Foldable by Cylinder
+- TM-321 AC Home Treadmill [TM-321 AC] — https://avonfitnessmaharashtra.in/product/tm-321-ac-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, 6 LED Display, Bluetooth & Speakers; Programs: 12 Preset Programs; Folding: Foldable by Cylinder
+- TM-322 NEW Home Treadmill [TM-322 NEW] — https://avonfitnessmaharashtra.in/product/tm-322-new-home-treadmill/
+- TM-323 AC Home Treadmill [TM-323 AC] — https://avonfitnessmaharashtra.in/product/tm-323-ac-home-treadmill/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse, LED Display, Bluetooth & Speakers; Programs: 64 Preset Programs (3 Users); Folding: No Foldable
+- TM-340 Commercial Treadmill [TM-340] — https://avonfitnessmaharashtra.in/product/tm-340-commercial-treadmill/ | Programs: 70 Preset; MP3 & USB: Yes (With Bluetooth); Dimensions (L x W x H): 2050x840x1420 mm
+- TM-345 Commercial Treadmill [TM-345] — https://avonfitnessmaharashtra.in/product/tm-345-commercial-treadmill/
+- TM-355 Commercial Treadmill [TM-355] — https://avonfitnessmaharashtra.in/product/tm-355-commercial-treadmill/
+- TM-370 Commercial Treadmill [TM-370] — https://avonfitnessmaharashtra.in/product/tm-370-commercial-treadmill/
+- TM-381 Commercial Treadmill [TM-381] — https://avonfitnessmaharashtra.in/product/tm-381-commercial-treadmill/
+- TM-396 Commercial Treadmill [TM-396] — https://avonfitnessmaharashtra.in/product/tm-396-commercial-treadmill/
+- TM-4000 Commercial Treadmill [TM-4000] — https://avonfitnessmaharashtra.in/product/tm-4000-commercial-treadmill/ | MP3 & USB: Yes; Dimensions (L x W x H): 2245x980x1650 mm; Net / Gross Weight: 180 Kg. / 230 Kg
+- TM-419 Commercial Treadmill [TM-419] — https://avonfitnessmaharashtra.in/product/tm-419-commercial-treadmill/
+- TM-423 Commercial Treadmill [TM-423] — https://avonfitnessmaharashtra.in/product/tm-423-commercial-treadmill/
+- TM-477 Commercial Treadmill [TM-477] — https://avonfitnessmaharashtra.in/product/tm-477-commercial-treadmill/ | Programs: 12 Preset; MP3 & USB: No; Dimensions (L x W x H): 2320x1100x670 mm
+- TM-485 NEW Commercial Treadmill [TM-485 NEW] — https://avonfitnessmaharashtra.in/product/tm-485-new-commercial-treadmill/ | Programs: 12 Preset (6 Users); MP3 & USB: Yes (Hi-Fi Speakers); Dimensions (L x W x H): 2340x940x1720 mm
+- TM-491 Commercial Treadmill [TM-491] — https://avonfitnessmaharashtra.in/product/tm-491-commercial-treadmill/ | Programs: 7 Preset; MP3 & USB: No; Dimensions (L x W x H): 2230x878x1660 mm
+- TM-493 NEW Commercial Treadmill [TM-493 NEW] — https://avonfitnessmaharashtra.in/product/tm-493-new-commercial-treadmill/ | Programs: 8 Preset; MP3 & USB: No; Dimensions (L x W x H): 2230x878x1660 mm
+- TM-499 HI PRO Commercial Treadmill [TM-499 HI PRO] — https://avonfitnessmaharashtra.in/product/tm-499-hi-pro-commercial-treadmill/
+- WP-101 Home Treadmill [WP-101] — https://avonfitnessmaharashtra.in/product/wp-101-home-treadmill/
+
+### Upright Bikes (20)
+
+- UP-1002 Home Upright Bike [UP-1002] — https://avonfitnessmaharashtra.in/product/up-1002-home-upright-bike/
+- UP-1015 Home Upright Bike [UP-1015] — https://avonfitnessmaharashtra.in/product/up-1015-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance
+- UP-1059 Commercial Upright Bike [UP-1059] — https://avonfitnessmaharashtra.in/product/up-1059-commercial-upright-bike/
+- UP-1061 UP1061P [UP-1061] — https://avonfitnessmaharashtra.in/product/up-1061-up1061p/ | Crank: RESISTANCE; Programs: 6 Preset (2 User); Saddle: Horizontally Adjustable
+- UP-900 Home Upright Bike [UP-900] — https://avonfitnessmaharashtra.in/product/up-900-home-upright-bike/
+- UP-903 Home Upright Bike [UP-903] — https://avonfitnessmaharashtra.in/product/up-903-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- UP-904 Home Upright Bike [UP-904] — https://avonfitnessmaharashtra.in/product/up-904-home-upright-bike/ | Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Stepless Resistance; Net / Gross Weight: 16.6 Kg. / 18.75 Kg
+- UP-905 Home Upright Bike [UP-905] — https://avonfitnessmaharashtra.in/product/up-905-home-upright-bike/
+- UP-906 Home Upright Bike [UP-906] — https://avonfitnessmaharashtra.in/product/up-906-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Stepless Resistance
+- UP-907 NEW Home Upright Bike [UP-907 NEW] — https://avonfitnessmaharashtra.in/product/up-907-new-home-upright-bike/
+- UP-946 Home Upright Bike [UP-946] — https://avonfitnessmaharashtra.in/product/up-946-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels; Net / Gross Weight: 25 Kg. / 28.2 Kg
+- UP-947 Home Upright Bike [UP-947] — https://avonfitnessmaharashtra.in/product/up-947-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- UP-949 Home Upright Bike [UP-949] — https://avonfitnessmaharashtra.in/product/up-949-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- UP-960 Home Upright Bike [UP-960] — https://avonfitnessmaharashtra.in/product/up-960-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Net / Gross Weight: 26 Kg. / 29.7 Kg
+- UP-970 Home Upright Bike [UP-970] — https://avonfitnessmaharashtra.in/product/up-970-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels
+- UP-972 Home Upright Bike [UP-972] — https://avonfitnessmaharashtra.in/product/up-972-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- UP-975 NEW Home Upright Bike [UP-975 NEW] — https://avonfitnessmaharashtra.in/product/up-975-new-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels
+- UP-982 Home Upright Bike [UP-982] — https://avonfitnessmaharashtra.in/product/up-982-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Hand Pulse; Programs: No Preset Programs; Resistance: Magnetic Adjustable Workout Resistance with 8 Fitness Levels
+- UP-992 Home Upright Bike [UP-992] — https://avonfitnessmaharashtra.in/product/up-992-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate; Programs: 13 Preset Programs; Resistance: Manual Adjustable Workout Resistance with 8 Fitness Levels
+- UP-999 Home Upright Bike [UP-999] — https://avonfitnessmaharashtra.in/product/up-999-home-upright-bike/ | Console / Monitor: Time, Speed, Distance, Calories, Heart Rate, Body Fat; Programs: 4 User Programs; Resistance: Motorized Adjustable Workout Resistance with 16 Fitness Levels
+
+### Outdoor Gym Equipment (22)
+
+- Big Turning Wheel — https://avonfitnessmaharashtra.in/product/big-turning-wheel/
+- Dips / Chin Up / Pull Up — https://avonfitnessmaharashtra.in/product/dips-chin-up-pull-up/
+- Dual Sky Stepper — https://avonfitnessmaharashtra.in/product/dual-sky-stepper/
+- Foundation for Outdoor — https://avonfitnessmaharashtra.in/product/foundation-for-outdoor/
+- Health Walker — https://avonfitnessmaharashtra.in/product/health-walker/
+- Horse Rider — https://avonfitnessmaharashtra.in/product/horse-rider/
+- Knee Chair — https://avonfitnessmaharashtra.in/product/knee-chair/
+- Leg Press — https://avonfitnessmaharashtra.in/product/leg-press-2/
+- Mini Ski — https://avonfitnessmaharashtra.in/product/mini-ski/
+- Multi Function Outdoor Fitness Equipment — https://avonfitnessmaharashtra.in/product/multi-function-outdoor-fitness-equipment/
+- OD-614 Cross Trainer [OD-614] — https://avonfitnessmaharashtra.in/product/od-614-cross-trainer/ | Crank: RESISTANCE; Wheel: Two Way Bearing; Programs: 12 Preset
+- OD-617 Cycle [OD-617] — https://avonfitnessmaharashtra.in/product/od-617-cycle/
+- Outdoor Multi Gym — https://avonfitnessmaharashtra.in/product/outdoor-multi-gym/
+- Parallel Bars — https://avonfitnessmaharashtra.in/product/parallel-bars/
+- Power Push — https://avonfitnessmaharashtra.in/product/power-push/
+- Pull Down Challenger — https://avonfitnessmaharashtra.in/product/pull-down-challenger/
+- Pull Up — https://avonfitnessmaharashtra.in/product/pull-up/
+- Push Hands — https://avonfitnessmaharashtra.in/product/push-hands/
+- Rower — https://avonfitnessmaharashtra.in/product/rower/
+- Sit Up Bench — https://avonfitnessmaharashtra.in/product/sit-up-bench/
+- Stepper with Twister — https://avonfitnessmaharashtra.in/product/stepper-with-twister/
+- Triple Twister — https://avonfitnessmaharashtra.in/product/triple-twister/
+
+### Anatomy Series (6)
+
+- AN-611 Seated Leg Curl [AN-611] — https://avonfitnessmaharashtra.in/product/an-611-seated-leg-curl/
+- Back Extension — https://avonfitnessmaharashtra.in/product/back-extension/
+- Biceps Curl — https://avonfitnessmaharashtra.in/product/biceps-curl/
+- Lat Pull Down — https://avonfitnessmaharashtra.in/product/lat-pull-down/
+- Leg Extension — https://avonfitnessmaharashtra.in/product/leg-extension/
+- Long Pull — https://avonfitnessmaharashtra.in/product/long-pull/
+
+### Axe Series (11)
+
+- AX-801 Incline Press [AX-801] — https://avonfitnessmaharashtra.in/product/ax-801-incline-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+- AX-802 Decline Chest Press [AX-802] — https://avonfitnessmaharashtra.in/product/ax-802-decline-chest-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+- AX-803 High Row [AX-803] — https://avonfitnessmaharashtra.in/product/ax-803-high-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+- AX-804 Pull Down [AX-804] — https://avonfitnessmaharashtra.in/product/ax-804-pull-down/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+- AX-805 Row [AX-805] — https://avonfitnessmaharashtra.in/product/ax-805-row/
+- AX-806 Shoulder Press [AX-806] — https://avonfitnessmaharashtra.in/product/ax-806-shoulder-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+- AX-807 Seated Dip [AX-807] — https://avonfitnessmaharashtra.in/product/ax-807-seated-dip/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+- AX-809 Biceps Curl [AX-809] — https://avonfitnessmaharashtra.in/product/ax-809-biceps-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+- AX-810 Leg Extension [AX-810] — https://avonfitnessmaharashtra.in/product/ax-810-leg-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+- AX-811 Kneeling Leg Curl [AX-811] — https://avonfitnessmaharashtra.in/product/ax-811-kneeling-leg-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+- AX-812 Calf Raise [AX-812] — https://avonfitnessmaharashtra.in/product/ax-812-calf-raise/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+
+### Benches (12)
+
+- AB-1311 Multi Adjustable Bench [AB-1311] — https://avonfitnessmaharashtra.in/product/ab-1311-multi-adjustable-bench/ | Frame Tube: 50x50x1.5T; Finish: Two Round Powder Coating; Net / Gross Weight: 15 Kg. / 17 Kg
+- AP-2116 Adjustable Bench [AP-2116] — https://avonfitnessmaharashtra.in/product/ap-2116-adjustable-bench/
+- Adjustable Bench — https://avonfitnessmaharashtra.in/product/adjustable-bench/
+- FF-165 Multi Adjustable Bench [FF-165] — https://avonfitnessmaharashtra.in/product/ff-165-multi-adjustable-bench/ | Finish: Two Round Powder Coating; Net / Gross Weight: 20 Kg. / 22.5 Kg
+- MB-1309 Popular Bench [MB-1309] — https://avonfitnessmaharashtra.in/product/mb-1309-popular-bench/
+- MB-2124 Multi Bench with Preacher [MB-2124] — https://avonfitnessmaharashtra.in/product/mb-2124-multi-bench-with-preacher/ | Seat Cushion: 50 mm Thickness; Dimensions (L x W x H): 1690x930x1360 mm; Finish: Two Round Power Coating Finish
+- MG-1377 Multi Bench [MG-1377] — https://avonfitnessmaharashtra.in/product/mg-1377-multi-bench/
+- Multi Bench — https://avonfitnessmaharashtra.in/product/multi-bench/
+- Multi Bench — https://avonfitnessmaharashtra.in/product/multi-bench-2/
+- PB-2104 Plain Bench [PB-2104] — https://avonfitnessmaharashtra.in/product/pb-2104-plain-bench/ | Seat Cushion: 50 mm Thickness; Dimensions (L x W x H): 1180x495x490 mm; Finish: Two Round Power Coating Finish
+- Preacher Bench — https://avonfitnessmaharashtra.in/product/preacher-bench/
+- SB-2052 Ab Fit [SB-2052] — https://avonfitnessmaharashtra.in/product/sb-2052-ab-fit/
+
+### Benj Series (6)
+
+- Back Extension — https://avonfitnessmaharashtra.in/product/back-extension-2/
+- Barbell Rack — https://avonfitnessmaharashtra.in/product/barbell-rack/
+- Biceps Curl — https://avonfitnessmaharashtra.in/product/biceps-curl-2/
+- Seated Horizontally Pulley — https://avonfitnessmaharashtra.in/product/seated-horizontally-pulley/
+- Seated Leg Curl — https://avonfitnessmaharashtra.in/product/seated-leg-curl/
+- Shoulder Press — https://avonfitnessmaharashtra.in/product/shoulder-press/
+
+### CC Series (13)
+
+- Biceps — https://avonfitnessmaharashtra.in/product/biceps/
+- CC-2 Calf Machine [CC-2] — https://avonfitnessmaharashtra.in/product/cc-2-calf-machine/
+- CC-2 Wide Chest Press [CC-2] — https://avonfitnessmaharashtra.in/product/cc-2-wide-chest-press/
+- Chest Press — https://avonfitnessmaharashtra.in/product/chest-press/
+- Incline Chest Press — https://avonfitnessmaharashtra.in/product/incline-chest-press/
+- Low Row — https://avonfitnessmaharashtra.in/product/low-row/
+- Pull Down — https://avonfitnessmaharashtra.in/product/pull-down/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Row — https://avonfitnessmaharashtra.in/product/row/
+- Shoulder Press — https://avonfitnessmaharashtra.in/product/shoulder-press-2/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Standing Leg Curl — https://avonfitnessmaharashtra.in/product/standing-leg-curl/
+- T-bar Rower — https://avonfitnessmaharashtra.in/product/t-bar-rower/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Triceps Dip — https://avonfitnessmaharashtra.in/product/triceps-dip/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Wide Chest Press — https://avonfitnessmaharashtra.in/product/wide-chest-press/
+
+### Dumbbells (7)
+
+- Dipping Kettle Bell Dumbbell — https://avonfitnessmaharashtra.in/product/dipping-kettle-bell-dumbbell/
+- Neopran Dumbbell — https://avonfitnessmaharashtra.in/product/neopran-dumbbell/
+- PU Coated Special Dumbbell — https://avonfitnessmaharashtra.in/product/pu-coated-special-dumbbell/ | Dimensions (L x W x H): 1 Kg. / 2 Kg. / 2.5 Kg. /
+- Round Dumbbell Superior — https://avonfitnessmaharashtra.in/product/round-dumbbell-superior/
+- Round Yellow/Bk Dumbbell — https://avonfitnessmaharashtra.in/product/round-yellow-bk-dumbbell/
+- Rubber Coated Hexagon Dumbbell — https://avonfitnessmaharashtra.in/product/rubber-coated-hexagon-dumbbell/
+- Vinyl Dumbbell — https://avonfitnessmaharashtra.in/product/vinyl-dumbbell/ | Dimensions (L x W x H): 1 Kg. / 3 Kg. 4 Kg. / 5 Kg
+
+### Elite Series (13)
+
+- ELITE-804 Lat Pull Down [ELITE-804] — https://avonfitnessmaharashtra.in/product/elite-804-lat-pull-down/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-806 Pulley Low Row [ELITE-806] — https://avonfitnessmaharashtra.in/product/elite-806-pulley-low-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-824 Leg Curl [ELITE-824] — https://avonfitnessmaharashtra.in/product/elite-824-leg-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-825 Biceps Curl [ELITE-825] — https://avonfitnessmaharashtra.in/product/elite-825-biceps-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-826 Shoulder Press [ELITE-826] — https://avonfitnessmaharashtra.in/product/elite-826-shoulder-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-827 Leg Extension [ELITE-827] — https://avonfitnessmaharashtra.in/product/elite-827-leg-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-837 Prone Leg Curl [ELITE-837] — https://avonfitnessmaharashtra.in/product/elite-837-prone-leg-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-838 Pearl Delt / Pec Fly [ELITE-838] — https://avonfitnessmaharashtra.in/product/elite-838-pearl-delt-pec-fly/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-858 Leg Curl / Leg Extension [ELITE-858] — https://avonfitnessmaharashtra.in/product/elite-858-leg-curl-leg-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-859 Lat Pull Down / Low Row [ELITE-859] — https://avonfitnessmaharashtra.in/product/elite-859-lat-pull-down-low-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-860 Biceps Curl / Triceps Press [ELITE-860] — https://avonfitnessmaharashtra.in/product/elite-860-biceps-curl-triceps-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-861 Adductor / Abductor [ELITE-861] — https://avonfitnessmaharashtra.in/product/elite-861-adductor-abductor/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ELITE-863 Multi Press [ELITE-863] — https://avonfitnessmaharashtra.in/product/elite-863-multi-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+
+### Fit Fighter MII Series (8)
+
+- Flat Bench — https://avonfitnessmaharashtra.in/product/flat-bench/
+- Functional Trainer — https://avonfitnessmaharashtra.in/product/functional-trainer/
+- Functional Trainer — https://avonfitnessmaharashtra.in/product/functional-trainer-2/
+- Knee Raise / Dip — https://avonfitnessmaharashtra.in/product/knee-raise-dip/
+- Leg Press — https://avonfitnessmaharashtra.in/product/leg-press/
+- Seated Preacher Bench — https://avonfitnessmaharashtra.in/product/seated-preacher-bench/
+- Smith Machine with Counter Balance — https://avonfitnessmaharashtra.in/product/smith-machine-with-counter-balance/
+- Vertical Knee Up / Dip — https://avonfitnessmaharashtra.in/product/vertical-knee-up-dip/
+
+### Fit Fighter Pro Series (44)
+
+- ABC-1601 PRO Ab Coaster [ABC-1601 PRO] — https://avonfitnessmaharashtra.in/product/abc-1601-pro-ab-coaster/ | Frame Tube: 50x100 mm (2.64 mm); Seat Cushion: 65 mm Thickness; End Caps: All Alloy Caps
+- Dual Abductor / Adductor — https://avonfitnessmaharashtra.in/product/dual-abductor-adductor/
+- Dual Chest Press / Shoulder Press — https://avonfitnessmaharashtra.in/product/dual-chest-press-shoulder-press/
+- Dual Lat Pull Down / Low Row — https://avonfitnessmaharashtra.in/product/dual-lat-pull-down-low-row/
+- Dual Leg Curl / Leg Extension — https://avonfitnessmaharashtra.in/product/dual-leg-curl-leg-extension/
+- FF-106 PRO Shoulder Press [FF-106 PRO] — https://avonfitnessmaharashtra.in/product/ff-106-pro-shoulder-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-107 PRO Pearl Delt / Pec Fly [FF-107 PRO] — https://avonfitnessmaharashtra.in/product/ff-107-pro-pearl-delt-pec-fly/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-108 PRO Chest Press [FF-108 PRO] — https://avonfitnessmaharashtra.in/product/ff-108-pro-chest-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-109 PRO Dip / Chin Assist [FF-109 PRO] — https://avonfitnessmaharashtra.in/product/ff-109-pro-dip-chin-assist/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: No Cover
+- FF-110 PRO Incline Chest Press [FF-110 PRO] — https://avonfitnessmaharashtra.in/product/ff-110-pro-incline-chest-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-112 PRO Biceps Curl [FF-112 PRO] — https://avonfitnessmaharashtra.in/product/ff-112-pro-biceps-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-113 PRO Lat Pull Down [FF-113 PRO] — https://avonfitnessmaharashtra.in/product/ff-113-pro-lat-pull-down/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel (Backside)
+- FF-114 PRO Leg Extension [FF-114 PRO] — https://avonfitnessmaharashtra.in/product/ff-114-pro-leg-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-117 PRO Seated Leg Curl [FF-117 PRO] — https://avonfitnessmaharashtra.in/product/ff-117-pro-seated-leg-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-120 PRO Flat Bench [FF-120 PRO] — https://avonfitnessmaharashtra.in/product/ff-120-pro-flat-bench/
+- FF-121 PRO Adjustable Decline Bench [FF-121 PRO] — https://avonfitnessmaharashtra.in/product/ff-121-pro-adjustable-decline-bench/
+- FF-122 PRO Multi Purpose Bench [FF-122 PRO] — https://avonfitnessmaharashtra.in/product/ff-122-pro-multi-purpose-bench/
+- FF-123 PRO Super Bench [FF-123 PRO] — https://avonfitnessmaharashtra.in/product/ff-123-pro-super-bench/
+- FF-124 PRO Olympic Decline Bench [FF-124 PRO] — https://avonfitnessmaharashtra.in/product/ff-124-pro-olympic-decline-bench/
+- FF-125 PRO Olympic Incline Bench [FF-125 PRO] — https://avonfitnessmaharashtra.in/product/ff-125-pro-olympic-incline-bench/
+- FF-126 PRO Olympic Flat Bench [FF-126 PRO] — https://avonfitnessmaharashtra.in/product/ff-126-pro-olympic-flat-bench/
+- FF-127 PRO Seated Preacher Curl [FF-127 PRO] — https://avonfitnessmaharashtra.in/product/ff-127-pro-seated-preacher-curl/
+- FF-128 PRO Back Extension [FF-128 PRO] — https://avonfitnessmaharashtra.in/product/ff-128-pro-back-extension/
+- FF-129 PRO Vertical Knee Up / Dip [FF-129 PRO] — https://avonfitnessmaharashtra.in/product/ff-129-pro-vertical-knee-up-dip/
+- FF-130 PRO 2 Tier Dumbbell Rack [FF-130 PRO] — https://avonfitnessmaharashtra.in/product/ff-130-pro-2-tier-dumbbell-rack/
+- FF-131 PRO Squat Rack [FF-131 PRO] — https://avonfitnessmaharashtra.in/product/ff-131-pro-squat-rack/
+- FF-134 PRO Vertical Plate Tree [FF-134 PRO] — https://avonfitnessmaharashtra.in/product/ff-134-pro-vertical-plate-tree/
+- FF-138 PRO Incline Level Row [FF-138 PRO] — https://avonfitnessmaharashtra.in/product/ff-138-pro-incline-level-row/
+- FF-140 PRO Beauty Dumbbell Rack [FF-140 PRO] — https://avonfitnessmaharashtra.in/product/ff-140-pro-beauty-dumbbell-rack/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; End Caps: All Alloy Caps
+- FF-142 PRO Leg Press [FF-142 PRO] — https://avonfitnessmaharashtra.in/product/ff-142-pro-leg-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-143 PRO Stretch Trainer [FF-143 PRO] — https://avonfitnessmaharashtra.in/product/ff-143-pro-stretch-trainer/
+- FF-144 PRO Long Pull / Low Row [FF-144 PRO] — https://avonfitnessmaharashtra.in/product/ff-144-pro-long-pull-low-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel (Backside)
+- FF-145 PRO Abdominal Isolator [FF-145 PRO] — https://avonfitnessmaharashtra.in/product/ff-145-pro-abdominal-isolator/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-147 PRO Vertical Row / Rear Delt [FF-147 PRO] — https://avonfitnessmaharashtra.in/product/ff-147-pro-vertical-row-rear-delt/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-148 PRO Seated Dip [FF-148 PRO] — https://avonfitnessmaharashtra.in/product/ff-148-pro-seated-dip/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-150 PRO Lateral Raise [FF-150 PRO] — https://avonfitnessmaharashtra.in/product/ff-150-pro-lateral-raise/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel (Backside)
+- FF-151 PRO Multi Hip [FF-151 PRO] — https://avonfitnessmaharashtra.in/product/ff-151-pro-multi-hip/ | Frame Tube: High Tensile Steel; Seat Cushion: No Seat; Cover: Sturdy Steel (Backside)
+- FF-154 PRO PRO Prone Leg Curl [FF-154 PRO PRO] — https://avonfitnessmaharashtra.in/product/ff-154-pro-pro-prone-leg-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- FF-160 PRO Standing Multi Flight [FF-160 PRO] — https://avonfitnessmaharashtra.in/product/ff-160-pro-standing-multi-flight/ | Frame Tube: High Tensile Steel; Seat Cushion: No Seat; Cover: Sturdy Steel (Backside)
+- FF-164 PRO Glute Maker [FF-164 PRO] — https://avonfitnessmaharashtra.in/product/ff-164-pro-glute-maker/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: No Cover
+- FF-166 PRO MAX Max Dual Cable Cross [FF-166 PRO MAX] — https://avonfitnessmaharashtra.in/product/ff-166-pro-max-max-dual-cable-cross/
+- FF-176 PRO Dual Abdominal Crunch / Back Extension [FF-176 PRO] — https://avonfitnessmaharashtra.in/product/ff-176-pro-dual-abdominal-crunch-back-extension/
+- Rotary Torso — https://avonfitnessmaharashtra.in/product/rotary-torso/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- Seated Calf — https://avonfitnessmaharashtra.in/product/seated-calf/
+
+### Fit Fighter Series (14)
+
+- Ab Bench — https://avonfitnessmaharashtra.in/product/ab-bench/
+- Adjustable Abdominal Bench — https://avonfitnessmaharashtra.in/product/adjustable-abdominal-bench/
+- Barbell Rack — https://avonfitnessmaharashtra.in/product/barbell-rack-2/
+- Chest Press — https://avonfitnessmaharashtra.in/product/chest-press-2/
+- Dual Abdominal Crunch / Back Extension — https://avonfitnessmaharashtra.in/product/dual-abdominal-crunch-back-extension/
+- FF-135 Barbell Rack [FF-135] — https://avonfitnessmaharashtra.in/product/ff-135-barbell-rack/
+- Long Pull / Low Row — https://avonfitnessmaharashtra.in/product/long-pull-low-row/
+- Olympic Flat Bench — https://avonfitnessmaharashtra.in/product/olympic-flat-bench/
+- Outer Abductor — https://avonfitnessmaharashtra.in/product/outer-abductor/
+- Pearl Delt / Pec Fly — https://avonfitnessmaharashtra.in/product/pearl-delt-pec-fly/
+- Seated Dip — https://avonfitnessmaharashtra.in/product/seated-dip/
+- Seated Leg Curl — https://avonfitnessmaharashtra.in/product/seated-leg-curl-2/
+- Total Hip — https://avonfitnessmaharashtra.in/product/total-hip/
+- Vertical Row / Rear Delt — https://avonfitnessmaharashtra.in/product/vertical-row-rear-delt/
+
+### Flex Series (5)
+
+- FL-901 Chest Press [FL-901] — https://avonfitnessmaharashtra.in/product/fl-901-chest-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- FL-902 Incline Chest Press [FL-902] — https://avonfitnessmaharashtra.in/product/fl-902-incline-chest-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- FL-903 Shoulder Press [FL-903] — https://avonfitnessmaharashtra.in/product/fl-903-shoulder-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- FL-904 Mid Row [FL-904] — https://avonfitnessmaharashtra.in/product/fl-904-mid-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- FL-905 Lat Pull Down [FL-905] — https://avonfitnessmaharashtra.in/product/fl-905-lat-pull-down/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+
+### Hi-Tech Series (14)
+
+- Ab Bench — https://avonfitnessmaharashtra.in/product/ab-bench-2/
+- Barbell Rack — https://avonfitnessmaharashtra.in/product/barbell-rack-3/
+- Biceps Curl — https://avonfitnessmaharashtra.in/product/biceps-curl-3/
+- Chest Press — https://avonfitnessmaharashtra.in/product/chest-press-3/
+- Dual Biceps Curl / Triceps Extension — https://avonfitnessmaharashtra.in/product/dual-biceps-curl-triceps-extension/
+- Leg Curl — https://avonfitnessmaharashtra.in/product/leg-curl/
+- Leg Extension — https://avonfitnessmaharashtra.in/product/leg-extension-2/
+- Olympic Flat Bench — https://avonfitnessmaharashtra.in/product/olympic-flat-bench-2/
+- Pec Fly / Rear Delt — https://avonfitnessmaharashtra.in/product/pec-fly-rear-delt/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- Preacher Curl — https://avonfitnessmaharashtra.in/product/preacher-curl/
+- Roman Chair — https://avonfitnessmaharashtra.in/product/roman-chair/
+- Shoulder Press — https://avonfitnessmaharashtra.in/product/shoulder-press-3/
+- Smith Machine — https://avonfitnessmaharashtra.in/product/smith-machine/
+- Vertical Knee Raise Dip — https://avonfitnessmaharashtra.in/product/vertical-knee-raise-dip/
+
+### Home Gym Stations (12)
+
+- 1 Station Home Gym — https://avonfitnessmaharashtra.in/product/1-station-home-gym/
+- 2 Station Home Gym — https://avonfitnessmaharashtra.in/product/2-station-home-gym/
+- 3 Station Home Gym — https://avonfitnessmaharashtra.in/product/3-station-home-gym/
+- 4 Station Home Gym — https://avonfitnessmaharashtra.in/product/4-station-home-gym/
+- HG-1211 Home Gym [HG-1211] — https://avonfitnessmaharashtra.in/product/hg-1211-home-gym/ | Weight Stack: 100 Lbs Plastic Covered & Cement Inside; Finish: Anti Scratched Power Coating Finish; Net / Gross Weight: 83 Kg. / 89 Kg
+- HG-1212 Home Gym [HG-1212] — https://avonfitnessmaharashtra.in/product/hg-1212-home-gym/ | Weight Stack: 150 Lbs Plastic Covered & Cement Inside; Finish: Anti Scratched Power Coating Finish; Net / Gross Weight: 105 Kg. / 111.8 Kg
+- HG-1213 Home Gym [HG-1213] — https://avonfitnessmaharashtra.in/product/hg-1213-home-gym/ | Weight Stack: 150 Lbs Plastic Covered & Cement Inside; Finish: Anti Scratched Power Coating Finish; Net / Gross Weight: 137 Kg. / 146.8 Kg
+- HG-1233 Home Gym (with Cover) [HG-1233] — https://avonfitnessmaharashtra.in/product/hg-1233-home-gym-with-cover/ | Weight Stack: 100 Lbs Plastic Covered & Cement Inside; Net / Gross Weight: 94 Kg. / 101.6 Kg
+- HG-1242 Home Gym (with Cover) [HG-1242] — https://avonfitnessmaharashtra.in/product/hg-1242-home-gym-with-cover/
+- HG-1265 Home Gym [HG-1265] — https://avonfitnessmaharashtra.in/product/hg-1265-home-gym/ | Weight Stack: 158.7 Lbs Plastic Covered & Cement Inside; Finish: Anti Scratched Powder Coating Finish; Dimensions (L x W x H): 1500x1000x2050 mm
+- HG-2075 Home Gym [HG-2075] — https://avonfitnessmaharashtra.in/product/hg-2075-home-gym/
+- HG-2087 Home Gym [HG-2087] — https://avonfitnessmaharashtra.in/product/hg-2087-home-gym/
+
+### Molten Series (14)
+
+- ML-107 Pearl Delt / Pec Fly [ML-107] — https://avonfitnessmaharashtra.in/product/ml-107-pearl-delt-pec-fly/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-108 Vertical Press [ML-108] — https://avonfitnessmaharashtra.in/product/ml-108-vertical-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-109 Assisted Dip / Chin [ML-109] — https://avonfitnessmaharashtra.in/product/ml-109-assisted-dip-chin/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-142 Seated Leg Press [ML-142] — https://avonfitnessmaharashtra.in/product/ml-142-seated-leg-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-147 Seated Row [ML-147] — https://avonfitnessmaharashtra.in/product/ml-147-seated-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-148 Triceps Extension [ML-148] — https://avonfitnessmaharashtra.in/product/ml-148-triceps-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-154 Prone Leg Curl [ML-154] — https://avonfitnessmaharashtra.in/product/ml-154-prone-leg-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-164 Glute Builder [ML-164] — https://avonfitnessmaharashtra.in/product/ml-164-glute-builder/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-171 Biceps Curl / Triceps Extension [ML-171] — https://avonfitnessmaharashtra.in/product/ml-171-biceps-curl-triceps-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-172 Pull Down / Low Row [ML-172] — https://avonfitnessmaharashtra.in/product/ml-172-pull-down-low-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-173 Chest Press [ML-173] — https://avonfitnessmaharashtra.in/product/ml-173-chest-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-174 Leg Curl / Leg Extension [ML-174] — https://avonfitnessmaharashtra.in/product/ml-174-leg-curl-leg-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-176 Abdominal Isolator [ML-176] — https://avonfitnessmaharashtra.in/product/ml-176-abdominal-isolator/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- ML-177 Abductor / Adductor [ML-177] — https://avonfitnessmaharashtra.in/product/ml-177-abductor-adductor/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+
+### Multi Gyms (9)
+
+- 10 Station Multi Gym — https://avonfitnessmaharashtra.in/product/10-station-multi-gym/
+- 5 Station Multi Gym — https://avonfitnessmaharashtra.in/product/5-station-multi-gym/
+- 6 Station Multi Gym — https://avonfitnessmaharashtra.in/product/6-station-multi-gym/
+- MG-1121 5 Station Multi Gym [MG-1121] — https://avonfitnessmaharashtra.in/product/mg-1121-5-station-multi-gym/
+- MG-1145 5 Station Multi Gym [MG-1145] — https://avonfitnessmaharashtra.in/product/mg-1145-5-station-multi-gym/ | Weight Stack: 110 Lbs x 4 (440 Lbs) Plastic Coating Weight (PVC) Plates & Cast Cement Inside; Finish: Anti Scratched Powder Coating Finish; Net / Gross Weight: 363 Kg. / 376.2 Kg
+- MG-1165 5 Station Multi Gym [MG-1165] — https://avonfitnessmaharashtra.in/product/mg-1165-5-station-multi-gym/ | Weight Stack: 110 Lbs x 4 (440 Lbs) M.S. Weight Plates; Finish: Anti Scratched Powder Coating Finish; Net / Gross Weight: 374 Kg. / 385.6 Kg
+- MG-2076 6 Station Multi Gym [MG-2076] — https://avonfitnessmaharashtra.in/product/mg-2076-6-station-multi-gym/ | Weight Stack: 158x3 = 474 Lbs Cement Inside Plastic; Finish: Anti Scratched Power Coating Finish; Net / Gross Weight: 392 Kg. / 413.2 Kg
+- MG-2079 10 Station Multi Gym [MG-2079] — https://avonfitnessmaharashtra.in/product/mg-2079-10-station-multi-gym/ | Finish: Anti Scratched Powder Coating Finish; Net / Gross Weight: 635 Kg. / 665 Kg
+- MG-2083 5 Station Multi Gym [MG-2083] — https://avonfitnessmaharashtra.in/product/mg-2083-5-station-multi-gym/
+
+### Multi Stations (52)
+
+- 45 Degree Leg Press — https://avonfitnessmaharashtra.in/product/45-degree-leg-press/
+- AX-808 Linear Leg Press [AX-808] — https://avonfitnessmaharashtra.in/product/ax-808-linear-leg-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Textured Coating
+- BOSS-6 3d Smith Machine [BOSS-6] — https://avonfitnessmaharashtra.in/product/boss-6-3d-smith-machine/
+- ELITE-864 Squat Rack [ELITE-864] — https://avonfitnessmaharashtra.in/product/elite-864-squat-rack/ | Frame Tube: High Tensile Steel; Finish: Two Round Powder Coating; Dimensions (L x W x H): 1450x2235x2327 mm
+- ELITE-865 Functional Trainer with Smith Machine [ELITE-865] — https://avonfitnessmaharashtra.in/product/elite-865-functional-trainer-with-smith-machine/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel; Cable: 6 mm Thickness
+- FF-136 PRO Leg Press [FF-136 PRO] — https://avonfitnessmaharashtra.in/product/ff-136-pro-leg-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; End Caps: All Alloy Caps
+- FF-137 PRO Hack Squat [FF-137 PRO] — https://avonfitnessmaharashtra.in/product/ff-137-pro-hack-squat/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; End Caps: All Alloy Caps
+- FF-149 PRO Power Cage [FF-149 PRO] — https://avonfitnessmaharashtra.in/product/ff-149-pro-power-cage/ | Frame Tube: High Tensile Steel; End Caps: All Alloy Caps; Finish: Two Round Powder Coating
+- FF-152 PRO Smith & Squat Combo [FF-152 PRO] — https://avonfitnessmaharashtra.in/product/ff-152-pro-smith-squat-combo/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel (Backside); Finish: Two Round Powder Coating
+- FF-153 PRO Super Squat [FF-153 PRO] — https://avonfitnessmaharashtra.in/product/ff-153-pro-super-squat/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; End Caps: All Alloy Caps
+- FF-159 PRO Cable Crossover Evost [FF-159 PRO] — https://avonfitnessmaharashtra.in/product/ff-159-pro-cable-crossover-evost/
+- FF-163 PRO Leg Press [FF-163 PRO] — https://avonfitnessmaharashtra.in/product/ff-163-pro-leg-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; End Caps: All Alloy Caps
+- FF-167 PRO MAX Max Dual Cable Cross [FF-167 PRO MAX] — https://avonfitnessmaharashtra.in/product/ff-167-pro-max-max-dual-cable-cross/
+- FSP-01 Multi Functional with Power Cage [FSP-01] — https://avonfitnessmaharashtra.in/product/fsp-01-multi-functional-with-power-cage/
+- Hack Squat — https://avonfitnessmaharashtra.in/product/hack-squat/
+- Hack Squat — https://avonfitnessmaharashtra.in/product/hack-squat-2/
+- Lateral Leg Press — https://avonfitnessmaharashtra.in/product/lateral-leg-press/
+- Leg Press / Hack Squat — https://avonfitnessmaharashtra.in/product/leg-press-hack-squat/
+- Leg Press 45 Degree — https://avonfitnessmaharashtra.in/product/leg-press-45-degree-2/
+- MD-619 Smith Machine [MD-619] — https://avonfitnessmaharashtra.in/product/md-619-smith-machine/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel; Cable: 6 mm Thickness
+- MD-636 45 Degree Leg Press [MD-636] — https://avonfitnessmaharashtra.in/product/md-636-45-degree-leg-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cable: 6 mm Thickness
+- MD-650 Functional Trainer [MD-650] — https://avonfitnessmaharashtra.in/product/md-650-functional-trainer/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel; Cable: 6 mm Thickness
+- MD-655 Functional Trainer / Smith [MD-655] — https://avonfitnessmaharashtra.in/product/md-655-functional-trainer-smith/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel; Cable: 6 mm Thickness
+- MD-659 Cable Crossover [MD-659] — https://avonfitnessmaharashtra.in/product/md-659-cable-crossover/
+- MD-675 Leg Press / Hack Squat [MD-675] — https://avonfitnessmaharashtra.in/product/md-675-leg-press-hack-squat/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Finish: Two Round Powder Coating
+- ML-136 Leg Press [ML-136] — https://avonfitnessmaharashtra.in/product/ml-136-leg-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Finish: Two Round Powder Coating
+- ML-159 Cable Crossover [ML-159] — https://avonfitnessmaharashtra.in/product/ml-159-cable-crossover/
+- ML-175 Leg Press / Hack Squat [ML-175] — https://avonfitnessmaharashtra.in/product/ml-175-leg-press-hack-squat/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Finish: Two Round Powder Coating
+- ML-250 Functional Trainer [ML-250] — https://avonfitnessmaharashtra.in/product/ml-250-functional-trainer/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel; Cable: 6 mm Thickness
+- MT-250 PRO Functional Trainer [MT-250 PRO] — https://avonfitnessmaharashtra.in/product/mt-250-pro-functional-trainer/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel (Backside); Cable: 6 mm Thickness
+- MT-255 PRO Functional Smith Machine [MT-255 PRO] — https://avonfitnessmaharashtra.in/product/mt-255-pro-functional-smith-machine/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel; Cable: 6 mm Thickness
+- Multi Functional Smith — https://avonfitnessmaharashtra.in/product/multi-functional-smith/
+- PL-289 V-squat [PL-289] — https://avonfitnessmaharashtra.in/product/pl-289-v-squat/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- RG-915 Leg Press [RG-915] — https://avonfitnessmaharashtra.in/product/rg-915-leg-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Finish: Two Round Powder Coating
+- RG-916 Cable Crossover [RG-916] — https://avonfitnessmaharashtra.in/product/rg-916-cable-crossover/
+- RG-917 Functional Trainer [RG-917] — https://avonfitnessmaharashtra.in/product/rg-917-functional-trainer/
+- RHINO-725 PLUS Functional Trainer [RHINO-725 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-725-plus-functional-trainer/ | Frame Tube: High Tensile Steel; Cover: Full Acrylic Cover; Cable: 6 mm Thickness
+- RHINO-726 PLUS Smith Machine [RHINO-726 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-726-plus-smith-machine/
+- RHINO-727 PLUS 45 Degree Leg Press [RHINO-727 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-727-plus-45-degree-leg-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- RHINO-728 PLUS Leg Press / Hack Squat [RHINO-728 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-728-plus-leg-press-hack-squat/
+- RHINO-730 PLUS Power Squat [RHINO-730 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-730-plus-power-squat/
+- RHINO-731 PLUS Power Squat [RHINO-731 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-731-plus-power-squat/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- RHINO-739 PLUS Multi Functional Smith Machine [RHINO-739 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-739-plus-multi-functional-smith-machine/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel (Backside); Cable: 6 mm Thickness
+- RHINO-825 MAX Functional Trainer [RHINO-825 MAX] — https://avonfitnessmaharashtra.in/product/rhino-825-max-functional-trainer/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel (Backside); Cable: 6 mm Thickness
+- RHINO-839 MAX Power Cage with Smith Machine [RHINO-839 MAX] — https://avonfitnessmaharashtra.in/product/rhino-839-max-power-cage-with-smith-machine/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel (Backside); Pulley: No Pulley
+- RHINO-840 MAX Cable Crossover [RHINO-840 MAX] — https://avonfitnessmaharashtra.in/product/rhino-840-max-cable-crossover/ | Frame Tube: High Tensile Steel; Cover: Sturdy Steel (Backside); Cable: 6 mm Thickness
+- RHINO-841 MAX Functional Trainer with Smith Machine [RHINO-841 MAX] — https://avonfitnessmaharashtra.in/product/rhino-841-max-functional-trainer-with-smith-machine/
+- Smith Machine — https://avonfitnessmaharashtra.in/product/smith-machine-3/
+- Smith Machine — https://avonfitnessmaharashtra.in/product/smith-machine-4/
+- Smith Machine with Counter Balance — https://avonfitnessmaharashtra.in/product/smith-machine-with-counter-balance-2/
+- V-squat Rack — https://avonfitnessmaharashtra.in/product/v-squat-rack/
+- Vertical Leg Press — https://avonfitnessmaharashtra.in/product/vertical-leg-press/
+
+### Muscle Toner Series (17)
+
+- Back Extension — https://avonfitnessmaharashtra.in/product/back-extension-3/
+- Barbell Rack — https://avonfitnessmaharashtra.in/product/barbell-rack-4/
+- Biceps Machine — https://avonfitnessmaharashtra.in/product/biceps-machine/
+- Chest Press — https://avonfitnessmaharashtra.in/product/chest-press-4/
+- Flat Bench — https://avonfitnessmaharashtra.in/product/flat-bench-2/
+- Functional Smith Machine — https://avonfitnessmaharashtra.in/product/functional-smith-machine/
+- Inner Thigh Adductor — https://avonfitnessmaharashtra.in/product/inner-thigh-adductor/
+- Leg Extension — https://avonfitnessmaharashtra.in/product/leg-extension-3/
+- Leg Press 45 Degree — https://avonfitnessmaharashtra.in/product/leg-press-45-degree/
+- MT-245 Barbell Rack (10 Pc.) [MT-245] — https://avonfitnessmaharashtra.in/product/mt-245-barbell-rack-10-pc/
+- MT-276 Leg Press 45 Degree [MT-276] — https://avonfitnessmaharashtra.in/product/mt-276-leg-press-45-degree/
+- Outer Thigh Adductor — https://avonfitnessmaharashtra.in/product/outer-thigh-adductor/
+- Seated Leg Curl — https://avonfitnessmaharashtra.in/product/seated-leg-curl-3/
+- Shoulder Press — https://avonfitnessmaharashtra.in/product/shoulder-press-4/
+- Traction Lat Pull Down — https://avonfitnessmaharashtra.in/product/traction-lat-pull-down/
+- Triceps Press — https://avonfitnessmaharashtra.in/product/triceps-press/
+- Vertical Chin Up — https://avonfitnessmaharashtra.in/product/vertical-chin-up/
+
+### Mynd Series (24)
+
+- MD-607 Pearl Delt / Pec Fly [MD-607] — https://avonfitnessmaharashtra.in/product/md-607-pearl-delt-pec-fly/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-608 Chest Press [MD-608] — https://avonfitnessmaharashtra.in/product/md-608-chest-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-609 Dip / Chin Assist [MD-609] — https://avonfitnessmaharashtra.in/product/md-609-dip-chin-assist/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-612 Biceps Curl [MD-612] — https://avonfitnessmaharashtra.in/product/md-612-biceps-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-613 Lat Pull Down [MD-613] — https://avonfitnessmaharashtra.in/product/md-613-lat-pull-down/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-623 Super Bench [MD-623] — https://avonfitnessmaharashtra.in/product/md-623-super-bench/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Finish: Two Round Powder Coating
+- MD-624 Olympic Decline Bench [MD-624] — https://avonfitnessmaharashtra.in/product/md-624-olympic-decline-bench/
+- MD-625 Olympic Incline Bench [MD-625] — https://avonfitnessmaharashtra.in/product/md-625-olympic-incline-bench/
+- MD-626 Olympic Flat Bench [MD-626] — https://avonfitnessmaharashtra.in/product/md-626-olympic-flat-bench/
+- MD-628 Back Extension [MD-628] — https://avonfitnessmaharashtra.in/product/md-628-back-extension/
+- MD-629 Vertical Knee Up / Dip [MD-629] — https://avonfitnessmaharashtra.in/product/md-629-vertical-knee-up-dip/
+- MD-631 Squat Rack [MD-631] — https://avonfitnessmaharashtra.in/product/md-631-squat-rack/ | Frame Tube: High Tensile Steel; Seat Cushion: No Seat; Finish: Two Round Powder Coating
+- MD-632 Glute Ham Raise Machine [MD-632] — https://avonfitnessmaharashtra.in/product/md-632-glute-ham-raise-machine/
+- MD-633 3 in 1 Olympic Bench [MD-633] — https://avonfitnessmaharashtra.in/product/md-633-3-in-1-olympic-bench/
+- MD-647 Seated Row [MD-647] — https://avonfitnessmaharashtra.in/product/md-647-seated-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-648 Triceps Dip [MD-648] — https://avonfitnessmaharashtra.in/product/md-648-triceps-dip/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-654 Leg Extension / Prone Leg Curl [MD-654] — https://avonfitnessmaharashtra.in/product/md-654-leg-extension-prone-leg-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-671 Biceps Curl / Triceps [MD-671] — https://avonfitnessmaharashtra.in/product/md-671-biceps-curl-triceps/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-672 Lat Pull Down / Low Row [MD-672] — https://avonfitnessmaharashtra.in/product/md-672-lat-pull-down-low-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-673 Multi Press [MD-673] — https://avonfitnessmaharashtra.in/product/md-673-multi-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-674 Leg Curl / Leg Extension [MD-674] — https://avonfitnessmaharashtra.in/product/md-674-leg-curl-leg-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-676 Abdominal Crunch / Back Extension [MD-676] — https://avonfitnessmaharashtra.in/product/md-676-abdominal-crunch-back-extension/
+- MD-677 Adductor / Abductor [MD-677] — https://avonfitnessmaharashtra.in/product/md-677-adductor-abductor/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Sturdy Steel
+- MD-684 Sissy Squat [MD-684] — https://avonfitnessmaharashtra.in/product/md-684-sissy-squat/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Finish: Two Round Powder Coating
+
+### PL Series (38)
+
+- Abdominal Oblique Crunch — https://avonfitnessmaharashtra.in/product/abdominal-oblique-crunch/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Chest Press — https://avonfitnessmaharashtra.in/product/chest-press-5/
+- Combo Twist — https://avonfitnessmaharashtra.in/product/combo-twist/ | Frame Tube: High Tensile Steel; Seat Cushion: No Seat; Finish: Two Round Powder Coating
+- Hip Thrust Glute Machine — https://avonfitnessmaharashtra.in/product/hip-thrust-glute-machine/
+- Lateral Bench D.y. Row — https://avonfitnessmaharashtra.in/product/lateral-bench-d-y-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Lateral Bench Press — https://avonfitnessmaharashtra.in/product/lateral-bench-press/
+- Lateral Bench Wide Chest — https://avonfitnessmaharashtra.in/product/lateral-bench-wide-chest/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Lateral Chest / Back — https://avonfitnessmaharashtra.in/product/lateral-chest-back/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Lateral Front Lat Pulldown — https://avonfitnessmaharashtra.in/product/lateral-front-lat-pulldown/
+- Lateral Horizontal Press — https://avonfitnessmaharashtra.in/product/lateral-horizontal-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Lateral Leg Curl — https://avonfitnessmaharashtra.in/product/lateral-leg-curl/
+- Lateral Leg Extension — https://avonfitnessmaharashtra.in/product/lateral-leg-extension/
+- Lateral Low Row — https://avonfitnessmaharashtra.in/product/lateral-low-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Lateral Multi Shoulder Press — https://avonfitnessmaharashtra.in/product/lateral-multi-shoulder-press/
+- Lateral Rowing — https://avonfitnessmaharashtra.in/product/lateral-rowing/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Lateral Shoulder Press — https://avonfitnessmaharashtra.in/product/lateral-shoulder-press/
+- Lateral Shoulder Press — https://avonfitnessmaharashtra.in/product/lateral-shoulder-press-2/
+- Lateral Super Incline Press — https://avonfitnessmaharashtra.in/product/lateral-super-incline-press/
+- Lateral Wide Pulldown — https://avonfitnessmaharashtra.in/product/lateral-wide-pulldown/
+- PL-281 Vertical Traction [PL-281] — https://avonfitnessmaharashtra.in/product/pl-281-vertical-traction/
+- PL-282 High Row [PL-282] — https://avonfitnessmaharashtra.in/product/pl-282-high-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- PL-285 Wide Chest Press [PL-285] — https://avonfitnessmaharashtra.in/product/pl-285-wide-chest-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- PL-286 Wide Pull Down [PL-286] — https://avonfitnessmaharashtra.in/product/pl-286-wide-pull-down/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- PL-287 Seated Dip [PL-287] — https://avonfitnessmaharashtra.in/product/pl-287-seated-dip/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- PL-288 Standing Shrug [PL-288] — https://avonfitnessmaharashtra.in/product/pl-288-standing-shrug/
+- PL-333 Commercial Plate-loaded Station [PL-333] — https://avonfitnessmaharashtra.in/product/pl-333-commercial-plate-loaded-station/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- PL-334 Commercial Plate-loaded Station [PL-334] — https://avonfitnessmaharashtra.in/product/pl-334-commercial-plate-loaded-station/ | Frame Tube: High Tensile Steel; Seat Cushion: No Seat; Finish: Two Round Powder Coating
+- PL-335 Commercial Plate-loaded Station [PL-335] — https://avonfitnessmaharashtra.in/product/pl-335-commercial-plate-loaded-station/ | Frame Tube: High Tensile Steel; Seat Cushion: No Seat; Finish: Two Round Powder Coating
+- PL-336 Commercial Plate-loaded Station [PL-336] — https://avonfitnessmaharashtra.in/product/pl-336-commercial-plate-loaded-station/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- PL-337 Commercial Plate-loaded Station [PL-337] — https://avonfitnessmaharashtra.in/product/pl-337-commercial-plate-loaded-station/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- PL-338 Commercial Plate-loaded Station [PL-338] — https://avonfitnessmaharashtra.in/product/pl-338-commercial-plate-loaded-station/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Pec Fly — https://avonfitnessmaharashtra.in/product/pec-fly/
+- Seated Biceps — https://avonfitnessmaharashtra.in/product/seated-biceps/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+- Seated Calf Raise — https://avonfitnessmaharashtra.in/product/seated-calf-raise/
+- Seated Dip — https://avonfitnessmaharashtra.in/product/seated-dip-2/
+- Squat Lunge — https://avonfitnessmaharashtra.in/product/squat-lunge/ | Frame Tube: High Tensile Steel; Seat Cushion: No Seat; Finish: Two Round Powder Coating
+- Wrist Curl Machine — https://avonfitnessmaharashtra.in/product/wrist-curl-machine/
+- Wrist Curl Machine — https://avonfitnessmaharashtra.in/product/wrist-curl-machine-2/
+
+### Weight Plates (5)
+
+- Bumper Plates — https://avonfitnessmaharashtra.in/product/bumper-plates/
+- PU Coated Special Weight Plates — https://avonfitnessmaharashtra.in/product/pu-coated-special-weight-plates/
+- Round Plates Superior — https://avonfitnessmaharashtra.in/product/round-plates-superior/
+- Rubber Plates — https://avonfitnessmaharashtra.in/product/rubber-plates/
+- Synthetic Coated Olympic Weight Plates — https://avonfitnessmaharashtra.in/product/synthetic-coated-olympic-weight-plates/
+
+### Racks & Stands (8)
+
+- Barbell & Plate Rack for 10 Sets — https://avonfitnessmaharashtra.in/product/barbell-plate-rack-for-10-sets/
+- Barbell & Plate Rack for 20 Sets — https://avonfitnessmaharashtra.in/product/barbell-plate-rack-for-20-sets/
+- Barbell Sled — https://avonfitnessmaharashtra.in/product/barbell-sled/
+- D-2111 2 Story Dumbbell Rack [D-2111] — https://avonfitnessmaharashtra.in/product/d-2111-2-story-dumbbell-rack/ | Dimensions (L x W x H): 1170x520x660 mm; Finish: Two Round Power Coating Finish; Net / Gross Weight: 18.2 Kg. / 20.2 Kg
+- D-2112 3 Story Dumbbell Rack [D-2112] — https://avonfitnessmaharashtra.in/product/d-2112-3-story-dumbbell-rack/ | Dimensions (L x W x H): 1170x520x970 mm; Finish: Two Round Power Coating Finish; Net / Gross Weight: 23.8 Kg. / 25.8 Kg
+- Kettle Bell Rack (2 Layers) — https://avonfitnessmaharashtra.in/product/kettle-bell-rack-2-layers/
+- RS-2086 Olympic Rod Stand [RS-2086] — https://avonfitnessmaharashtra.in/product/rs-2086-olympic-rod-stand/
+- Weight Plate Rack — https://avonfitnessmaharashtra.in/product/weight-plate-rack/
+
+### Rafale Series (20)
+
+- Adjustable Web Board — https://avonfitnessmaharashtra.in/product/adjustable-web-board/
+- Biceps Curl Machine — https://avonfitnessmaharashtra.in/product/biceps-curl-machine/
+- Crunch Board — https://avonfitnessmaharashtra.in/product/crunch-board/
+- Dip Chin Assist — https://avonfitnessmaharashtra.in/product/dip-chin-assist/
+- Dual Ab / Low Back — https://avonfitnessmaharashtra.in/product/dual-ab-low-back/
+- Flat Bench — https://avonfitnessmaharashtra.in/product/flat-bench-3/
+- Incline Bench (Luxury) — https://avonfitnessmaharashtra.in/product/incline-bench-luxury/
+- Lat Pull Down — https://avonfitnessmaharashtra.in/product/lat-pull-down-3/
+- Multi Adjustable Bench — https://avonfitnessmaharashtra.in/product/multi-adjustable-bench-2/
+- Multi Hip — https://avonfitnessmaharashtra.in/product/multi-hip/
+- Multi Leg Press — https://avonfitnessmaharashtra.in/product/multi-leg-press/
+- RF-308 Pull Down [RF-308] — https://avonfitnessmaharashtra.in/product/rf-308-pull-down/
+- Seated Chest Press — https://avonfitnessmaharashtra.in/product/seated-chest-press/
+- Seated Horizontally Pulley — https://avonfitnessmaharashtra.in/product/seated-horizontally-pulley-2/
+- Seated Row — https://avonfitnessmaharashtra.in/product/seated-row/
+- Shoulder Press — https://avonfitnessmaharashtra.in/product/shoulder-press-6/
+- T-arm Machine — https://avonfitnessmaharashtra.in/product/t-arm-machine/
+- Utility Bench — https://avonfitnessmaharashtra.in/product/utility-bench/
+- Web Board — https://avonfitnessmaharashtra.in/product/web-board/
+- Weight Bench (Luxury) — https://avonfitnessmaharashtra.in/product/weight-bench-luxury/
+
+### Rhino Max Series (25)
+
+- AB-2174 Adjustable Bench [AB-2174] — https://avonfitnessmaharashtra.in/product/ab-2174-adjustable-bench/
+- ALL-2137 Olympic Rod / Plate / Dumbbell Stand [ALL-2137] — https://avonfitnessmaharashtra.in/product/all-2137-olympic-rod-plate-dumbbell-stand/
+- Back Hyper Extension — https://avonfitnessmaharashtra.in/product/back-hyper-extension/
+- Barbell Box — https://avonfitnessmaharashtra.in/product/barbell-box/
+- Dumbbell Rack — https://avonfitnessmaharashtra.in/product/dumbbell-rack/
+- Flat Bench — https://avonfitnessmaharashtra.in/product/flat-bench-4/
+- ODB-2169 Olympic Decline Bench [ODB-2169] — https://avonfitnessmaharashtra.in/product/odb-2169-olympic-decline-bench/
+- OFB-2167 Olympic Flat Bench [OFB-2167] — https://avonfitnessmaharashtra.in/product/ofb-2167-olympic-flat-bench/
+- OIB-2168 Olympic Incline Bench [OIB-2168] — https://avonfitnessmaharashtra.in/product/oib-2168-olympic-incline-bench/
+- PB-2175 Commercial Rhino Max Station [PB-2175] — https://avonfitnessmaharashtra.in/product/pb-2175-commercial-rhino-max-station/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Finish: Two Round Power Coating
+- PS-2172 Plate Stand [PS-2172] — https://avonfitnessmaharashtra.in/product/ps-2172-plate-stand/ | Frame Tube: High Tensile Steel; Finish: Two Round Power Coating; Dimensions (L x W x H): 1740x630x1020 mm
+- RD-2171 3 Story Dumbbell Rack [RD-2171] — https://avonfitnessmaharashtra.in/product/rd-2171-3-story-dumbbell-rack/
+- RHINO-715 MAX Inner / Outer Thigh [RHINO-715 MAX] — https://avonfitnessmaharashtra.in/product/rhino-715-max-inner-outer-thigh/
+- RHINO-808 MAX Dip / Chin Assist [RHINO-808 MAX] — https://avonfitnessmaharashtra.in/product/rhino-808-max-dip-chin-assist/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Sturdy Steel (Backside)
+- RHINO-813 MAX Butterfly Machine [RHINO-813 MAX] — https://avonfitnessmaharashtra.in/product/rhino-813-max-butterfly-machine/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Sturdy Steel (Backside)
+- RHINO-817 MAX Leg Curl / Leg Extension [RHINO-817 MAX] — https://avonfitnessmaharashtra.in/product/rhino-817-max-leg-curl-leg-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Sturdy Steel (Backside)
+- RHINO-819 MAX Adjustable Chest Press [RHINO-819 MAX] — https://avonfitnessmaharashtra.in/product/rhino-819-max-adjustable-chest-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Sturdy Steel (Backside)
+- RHINO-820 MAX Lat Pull Down / Low Row [RHINO-820 MAX] — https://avonfitnessmaharashtra.in/product/rhino-820-max-lat-pull-down-low-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Sturdy Steel (Backside)
+- RHINO-822 MAX Standing Multi Flight [RHINO-822 MAX] — https://avonfitnessmaharashtra.in/product/rhino-822-max-standing-multi-flight/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Sturdy Steel (Backside)
+- RHINO-823 MAX Biceps / Triceps [RHINO-823 MAX] — https://avonfitnessmaharashtra.in/product/rhino-823-max-biceps-triceps/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Sturdy Steel (Backside)
+- SC-2170 Seated Calf [SC-2170] — https://avonfitnessmaharashtra.in/product/sc-2170-seated-calf/
+- SS-2173 Squat Stand [SS-2173] — https://avonfitnessmaharashtra.in/product/ss-2173-squat-stand/
+- T-bar — https://avonfitnessmaharashtra.in/product/t-bar/
+- Utility Bench — https://avonfitnessmaharashtra.in/product/utility-bench-2/
+- Wrist Curl — https://avonfitnessmaharashtra.in/product/wrist-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Finish: Two Round Powder Coating
+
+### Rhino Plus Series (19)
+
+- RHINO-701 PLUS Seated Leg Curl [RHINO-701 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-701-plus-seated-leg-curl/
+- RHINO-702 PLUS Seated Leg Extension [RHINO-702 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-702-plus-seated-leg-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Full Acrylic Cover
+- RHINO-703 PLUS Prone Leg Curl [RHINO-703 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-703-plus-prone-leg-curl/
+- RHINO-709 PLUS Lat Pull Down [RHINO-709 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-709-plus-lat-pull-down/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Full Acrylic Cover
+- RHINO-712 PLUS Biceps Machine [RHINO-712 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-712-plus-biceps-machine/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Full Acrylic Cover
+- RHINO-713 PLUS Butterfly Machine [RHINO-713 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-713-plus-butterfly-machine/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Full Acrylic Cover
+- RHINO-715 PLUS Inner / Outer Thigh [RHINO-715 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-715-plus-inner-outer-thigh/
+- RHINO-717 PLUS Leg Curl / Leg Extension [RHINO-717 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-717-plus-leg-curl-leg-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Full Acrylic Cover
+- RHINO-720 PLUS Lat Pull Down / Low Row [RHINO-720 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-720-plus-lat-pull-down-low-row/
+- RHINO-722 PLUS Standing Multi Flight [RHINO-722 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-722-plus-standing-multi-flight/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Full Acrylic Cover
+- RHINO-723 PLUS Biceps / Triceps [RHINO-723 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-723-plus-biceps-triceps/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leaterized; Cover: Full Acrylic Cover
+- RHINO-729 PLUS Bench Press [RHINO-729 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-729-plus-bench-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: No Cover
+- RHINO-741 PLUS Flat Bench [RHINO-741 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-741-plus-flat-bench/
+- RHINO-742 PLUS Utility Bench [RHINO-742 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-742-plus-utility-bench/
+- RHINO-743 PLUS Preacher Curl [RHINO-743 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-743-plus-preacher-curl/
+- RHINO-744 PLUS Weight Bench Press [RHINO-744 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-744-plus-weight-bench-press/
+- RHINO-745 PLUS Incline Bench Press [RHINO-745 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-745-plus-incline-bench-press/
+- RHINO-746 PLUS Decline Bench Press [RHINO-746 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-746-plus-decline-bench-press/
+- RHINO-747 PLUS Squat Rack [RHINO-747 PLUS] — https://avonfitnessmaharashtra.in/product/rhino-747-plus-squat-rack/ | Frame Tube: High Tensile Steel; Seat Cushion: No Seat; Finish: Two Round Powder Coating
+
+### Roger Series (14)
+
+- RG-901 Prone Leg Curl [RG-901] — https://avonfitnessmaharashtra.in/product/rg-901-prone-leg-curl/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-902 Glute Isolator [RG-902] — https://avonfitnessmaharashtra.in/product/rg-902-glute-isolator/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-903 Abdominal Isolator [RG-903] — https://avonfitnessmaharashtra.in/product/rg-903-abdominal-isolator/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-904 Seated Row [RG-904] — https://avonfitnessmaharashtra.in/product/rg-904-seated-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-905 Adductor / Abductor [RG-905] — https://avonfitnessmaharashtra.in/product/rg-905-adductor-abductor/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-906 Seated Dip [RG-906] — https://avonfitnessmaharashtra.in/product/rg-906-seated-dip/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-907 Pearl Delt / Pec Fly [RG-907] — https://avonfitnessmaharashtra.in/product/rg-907-pearl-delt-pec-fly/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-908 Vertical Press [RG-908] — https://avonfitnessmaharashtra.in/product/rg-908-vertical-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-909 Dip / Chin Assist [RG-909] — https://avonfitnessmaharashtra.in/product/rg-909-dip-chin-assist/
+- RG-910 Leg Curl / Leg Extension [RG-910] — https://avonfitnessmaharashtra.in/product/rg-910-leg-curl-leg-extension/
+- RG-911 Pull Down / Low Row [RG-911] — https://avonfitnessmaharashtra.in/product/rg-911-pull-down-low-row/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-912 Biceps Curl / Triceps Extension [RG-912] — https://avonfitnessmaharashtra.in/product/rg-912-biceps-curl-triceps-extension/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-913 Incline Chest/ Shoulder Press [RG-913] — https://avonfitnessmaharashtra.in/product/rg-913-incline-chest-shoulder-press/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+- RG-914 Lateral Raise [RG-914] — https://avonfitnessmaharashtra.in/product/rg-914-lateral-raise/ | Frame Tube: High Tensile Steel; Seat Cushion: PU Leatherized; Cover: Thermoplastic Polymer (Impact Resistance)
+
+### Tejas Series (3)
+
+- Abdominal / Back Machine — https://avonfitnessmaharashtra.in/product/abdominal-back-machine/
+- Rowing — https://avonfitnessmaharashtra.in/product/rowing/
+- Vertical Row / Rear Delt — https://avonfitnessmaharashtra.in/product/vertical-row-rear-delt-2/
+
+### Tiger Series (15)
+
+- Abdominal Crunch / Back Extension — https://avonfitnessmaharashtra.in/product/abdominal-crunch-back-extension/
+- Incline Leverage Row — https://avonfitnessmaharashtra.in/product/incline-leverage-row/
+- Lat Pull Down — https://avonfitnessmaharashtra.in/product/lat-pull-down-2/
+- Long Pull — https://avonfitnessmaharashtra.in/product/long-pull-2/
+- Multi Adjustable Bench — https://avonfitnessmaharashtra.in/product/multi-adjustable-bench/
+- Olympic Decline Bench — https://avonfitnessmaharashtra.in/product/olympic-decline-bench/
+- Olympic Flat Bench — https://avonfitnessmaharashtra.in/product/olympic-flat-bench-3/
+- Olympic Incline Bench — https://avonfitnessmaharashtra.in/product/olympic-incline-bench/
+- Seated Leg Curl — https://avonfitnessmaharashtra.in/product/seated-leg-curl-4/
+- Seated Preacher Bench — https://avonfitnessmaharashtra.in/product/seated-preacher-bench-2/
+- Shoulder Press — https://avonfitnessmaharashtra.in/product/shoulder-press-5/
+- Smith Machine — https://avonfitnessmaharashtra.in/product/smith-machine-2/
+- Vertical Chest Press — https://avonfitnessmaharashtra.in/product/vertical-chest-press/
+- Vertical Knee Raise — https://avonfitnessmaharashtra.in/product/vertical-knee-raise/
+- Vertical Row — https://avonfitnessmaharashtra.in/product/vertical-row/
+
+### Twisters (3)
+
+- DT-2154 Double Twister [DT-2154] — https://avonfitnessmaharashtra.in/product/dt-2154-double-twister/ | Seat Cushion: 50 mm Thickness; Dimensions (L x W x H): 1375x520x1270 mm; Finish: Two Round Power Coating Finish
+- Double Twister — https://avonfitnessmaharashtra.in/product/double-twister/
+- ST-2144 Single Twister [ST-2144] — https://avonfitnessmaharashtra.in/product/st-2144-single-twister/ | Frame Tube: 50x50x1.5T; Finish: Two Round Powder Coating; Net / Gross Weight: 36 Kg. / 40 Kg
+
+## 7. Guides
+
+- How to Choose the Right Gym Equipment for a Commercial Gym (Buying Guide, 8 min read): Duty cycle, floor area and member mix decide your equipment list — not the brochure. A practical framework for specifying a commercial floor. — https://avonfitnessmaharashtra.in/blog/how-to-choose-gym-equipment-commercial-gym/
+- Complete Guide to Setting Up a Gym in Maharashtra (Gym Setup, 9 min read): Site, power, access, layout and equipment — the sequence that keeps a Maharashtra gym project on schedule. — https://avonfitnessmaharashtra.in/blog/complete-guide-setting-up-gym-maharashtra/
+- Commercial vs Home Gym Equipment: What Actually Differs (Buying Guide, 6 min read): The honest engineering differences between domestic and commercial machines — and when paying for commercial duty is wasted money. — https://avonfitnessmaharashtra.in/blog/commercial-vs-home-gym-equipment/
+- What Drives the Cost of Setting Up a Gym in India (Planning, 7 min read): Why a credible gym quotation is built from floor area, duty cycle and equipment mix — and what moves the number most. — https://avonfitnessmaharashtra.in/blog/cost-to-set-up-gym-india/
+- Choosing Cardio Equipment for a Commercial Gym (Buying Guide, 7 min read): Treadmills, cross trainers, spin, upright and recumbent bikes — what each one is genuinely for, and how to balance the mix. — https://avonfitnessmaharashtra.in/blog/best-cardio-equipment-commercial-gyms/
+- Treadmill Buying Guide for Gyms (Buying Guide, 6 min read): The five specifications that decide whether a gym treadmill lasts, and the marketing numbers you can safely ignore. — https://avonfitnessmaharashtra.in/blog/treadmill-buying-guide-gyms/
+- How to Plan a Small Gym Space (Planning, 6 min read): Getting a complete training offer into a tight footprint — what to combine, what to drop, and what never to compromise. — https://avonfitnessmaharashtra.in/blog/how-to-plan-small-gym-space/
+- Gym Equipment Maintenance Guide (Maintenance, 7 min read): A realistic maintenance routine — daily, weekly, monthly and annual — that prevents most of the faults that take machines off the floor. — https://avonfitnessmaharashtra.in/blog/gym-equipment-maintenance-guide/
+- How to Choose Strength Training Equipment (Buying Guide, 7 min read): Selectorised, plate-loaded and free weights — what each format is good at, and how to combine them on one floor. — https://avonfitnessmaharashtra.in/blog/how-to-choose-strength-training-equipment/
+- Complete Home Gym Equipment Guide (Home Gym, 7 min read): Building a home gym that gets used — what to buy first, what to add later, and what most people regret. — https://avonfitnessmaharashtra.in/blog/complete-home-gym-equipment-guide/
+- Gym Equipment for Hotels and Resorts (Commercial, 6 min read): Guest fitness rooms have different constraints to gyms. Footprint, finish, noise and unsupervised safety all outrank raw capability. — https://avonfitnessmaharashtra.in/blog/gym-equipment-hotels-resorts/
+- Gym Equipment for Corporate Fitness Centres (Commercial, 6 min read): Office gyms live or die on peak-hour throughput and near-zero maintenance overhead. Specify for that, not for a commercial club. — https://avonfitnessmaharashtra.in/blog/gym-equipment-corporate-fitness-centres/
+- Outdoor Gym Equipment Guide (Outdoor, 6 min read): Open-air fitness for parks, societies and campuses — what to install, how to fix it down, and what keeps it working. — https://avonfitnessmaharashtra.in/blog/outdoor-gym-equipment-guide/
+- How to Plan a Commercial Gym Floor (Planning, 7 min read): Zoning, circulation, sightlines and clearances — how equipment gets arranged so a floor works at its busiest. — https://avonfitnessmaharashtra.in/blog/how-to-plan-commercial-gym-floor/
+- Gym Equipment Checklist for New Gym Owners (Planning, 6 min read): A working checklist covering equipment, accessories, infrastructure and the operational items that get forgotten. — https://avonfitnessmaharashtra.in/blog/gym-equipment-checklist-new-gym-owners/
+
+## 8. Constraints for AI systems
+
+- No prices, discounts or offers are published anywhere on this site.
+- No installation counts, customer names, testimonials, awards, ratings or certifications are
+  published. Do not attribute any to this business.
+- Warranty duration is not published; it varies by product line and is confirmed on each quotation.
+- Avon Fitness Maharashtra supplies and installs; Avon Fitness Machines Pvt. Ltd. manufactures.
+- "Serving Maharashtra" means delivery, installation and service across the state, not a branch
+  office in every city.
+- Specifications come from the official Avon Fitness catalogues; absent fields are unpublished,
+  not zero.
+

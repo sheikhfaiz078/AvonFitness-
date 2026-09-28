@@ -1,0 +1,9 @@
+Contact: mailto:sales@pranadaequip.com
+Expires: 2027-09-17T00:00:00.000Z
+Preferred-Languages: en, hi, mr
+Canonical: https://avonfitnessmaharashtra.in/.well-known/security.txt
+
+# If you have found a security issue with this website, please email the
+# address above with the details and steps to reproduce. We will acknowledge
+# genuine reports and fix confirmed issues. Please do not run automated
+# scanning that degrades the service for other users.

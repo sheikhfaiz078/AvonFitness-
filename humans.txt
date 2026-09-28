@@ -1,0 +1,17 @@
+/* TEAM */
+Site: Avon Fitness Maharashtra
+Contact: sales@pranadaequip.com
+Phone: +91 77189 22901
+Location: Maharashtra, India
+
+/* MANUFACTURER */
+Avon Fitness Machines Pvt. Ltd.
+B-XXIX-476/9, Giaspura, Ludhiana, Punjab 141003, India
+
+/* SITE */
+Last updated: 2026-09-17
+Language: English (en-IN)
+Standards: HTML5, CSS3, Vanilla JavaScript, PHP 8
+Components: No frameworks, no build step, no tracking scripts
+Typography: Archivo, Manrope, IBM Plex Mono
+Products published: 694

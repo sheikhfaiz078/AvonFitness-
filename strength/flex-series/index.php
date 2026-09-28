@@ -1,0 +1,16 @@
+<?php
+$LIST = [
+    'h1'           => 'Flex Series',
+    'intro'        => 'Flex Series is one of the commercial strength lines in the Avon range. Stations in this series cover the main movement patterns for a gym floor and are specified for continuous commercial use.',
+    'eyebrow'      => 'Strength Equipment',
+    'canonical'    => 'strength/flex-series/',
+    'title'        => 'Flex Series — 5 Models | Avon Fitness Maharashtra',
+    'description'  => 'Flex Series is one of the commercial strength lines in the Avon range. Stations in this series cover the main movement patterns for a gym floor and are specified for continuous commercial use. Supplied and installed across Mumbai, Pune, Nagpur and Maharashtra.',
+    'nav'          => 'products',
+    'scope'        => ['sub' => 'flex-series'],
+    'crumbs'       => [['name' => 'Home', 'url' => '/'], ['name' => 'Products', 'url' => '/products/'], ['name' => 'Strength Equipment', 'url' => '/strength/'], ['name' => 'Flex Series']],
+    'body'         => '<h2>About the Flex Series</h2><p>The Flex Series is one of several commercial strength lines Avon manufactures. Each series covers a set of stations built to a consistent frame and finish specification, so a floor equipped from one series looks and feels coherent rather than assembled from parts.</p><h2>What to check</h2><p>On any commercial strength station, read four things from the specification: the <strong>frame tube</strong> (high-tensile steel is the commercial standard), the <strong>weight stack rating</strong>, the <strong>cable</strong> specification and the <strong>finish</strong>. Where the manufacturer publishes these, they are listed on each product page along with the footprint and net and gross weights.</p><h2>Planning a floor around a series</h2><p>Rather than counting stations, check that the series covers every movement pattern you need — horizontal and vertical pushing and pulling, knee- and hip-dominant leg work, and core. <a href="/blog/how-to-choose-strength-training-equipment/">Our strength equipment guide</a> works through this, and we will build the schedule against your floor plan.</p>',
+    'faqs'         => [['q' => 'Are these stations selectorised or plate-loaded?', 'a' => 'Both formats exist across the Avon commercial strength range. Where a weight stack rating is listed on a product page, that station is selectorised; plate-loaded stations take Olympic plates instead. Ask us if you are unsure which suits your floor.'], ['q' => 'Can I mix stations from different series?', 'a' => 'Yes, and most floors do. Series affect frame styling and specification detail rather than compatibility. We will propose a mix that fits your space and budget.'], ['q' => 'Do you install commercial strength equipment?', 'a' => 'Yes — delivery, assembly, positioning and commissioning across Maharashtra, with pan-India supply on project orders.']],
+    'related'      => [['/strength/multi-stations/', 'Multi Stations'], ['/strength/fit-fighter-pro-series/', 'Fit Fighter Pro Series'], ['/strength/pl-series/', 'PL Series'], ['/strength/rhino-max-series/', 'Rhino Max Series'], ['/strength/mynd-series/', 'Mynd Series'], ['/strength/rafale-series/', 'Rafale Series'], ['/strength/', 'All strength equipment']],
+];
+require dirname(__DIR__, 2) . '/includes/tpl-listing.php';

@@ -1,0 +1,3 @@
+<?php
+$SLUG = 'olympic-curl-bar-with-bearing';
+require dirname(__DIR__, 2) . '/includes/tpl-product.php';

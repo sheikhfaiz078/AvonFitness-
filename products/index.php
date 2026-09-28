@@ -1,0 +1,16 @@
+<?php
+$LIST = [
+    'h1'           => 'All Gym Equipment',
+    'intro'        => 'The complete Avon Fitness range — 694 products across cardio, strength, outdoor and accessories. Filter by category or space, search by model number, and compare specifications side by side.',
+    'eyebrow'      => 'Full catalogue',
+    'canonical'    => 'products/',
+    'title'        => 'Gym Equipment Catalogue — 694 Products | Avon Fitness Maharashtra',
+    'description'  => 'Browse the full Avon Fitness catalogue: 694 products across treadmills, spin bikes, cross trainers, multi stations, commercial strength series, outdoor gym equipment and accessories. Supplied and installed across Maharashtra.',
+    'nav'          => 'products',
+    'crumbs'       => [['name' => 'Home', 'url' => '/'], ['name' => 'Products']],
+    'tiles'        => [['/cardio/', '01', 'Cardio Equipment', 157, 'treadmills'], ['/strength/', '02', 'Strength Equipment', 431, 'multi-stations'], ['/outdoor-gym/', '03', 'Outdoor Gym', 22, 'outdoor-gym'], ['/accessories/', '04', 'Accessories', 84, 'accessories']],
+    'body'         => '<h2>How this catalogue is organised</h2><p>Equipment is grouped the way a gym floor is actually laid out. <a href="/cardio/">Cardio</a> covers treadmills, cross trainers and the bike range. <a href="/strength/">Strength</a> covers selectorised stations, plate-loaded series, multi stations, benches, racks, dumbbells and plates. <a href="/outdoor-gym/">Outdoor</a> covers open-air units, and <a href="/accessories/">accessories</a> covers everything a floor runs short of first.</p><h2>Commercial or home?</h2><p>Use the Commercial and Home filters to narrow the range by duty cycle. If a machine will run more than about four hours a day, or will be used unsupervised by many people, specify commercial — our <a href="/blog/commercial-vs-home-gym-equipment/">comparison guide</a> explains what actually differs.</p><h2>Specifications</h2><p>Where the manufacturer publishes them, each product page lists the full catalogue specification — motor rating, running area, incline, weight stack, frame tube, finish, footprint and net and gross weights. For items where detail is not published, send an enquiry and we will share the specification sheet.</p>',
+    'faqs'         => [['q' => 'How many products are in the Avon Fitness range?', 'a' => 'This catalogue lists 694 products across 40 equipment categories, covering commercial, home and outdoor use.'], ['q' => 'Can I compare products side by side?', 'a' => 'Yes. Tick "Compare" on up to four product cards and open the comparison view to see specifications lined up in a single table.'], ['q' => 'Do you publish prices?', 'a' => 'No. Pricing depends on configuration, quantity, site and installation scope, so we quote per project. Send an enquiry with your city and requirement and we will come back with a costed list.']],
+    'related'      => [['/commercial-gym/', 'Commercial gym equipment'], ['/home-gym/', 'Home gym equipment'], ['/commercial-gym-solutions/', 'Gym planning & setup'], ['/compare/', 'Compare equipment'], ['/gym-equipment-maharashtra/', 'Gym equipment in Maharashtra']],
+];
+require dirname(__DIR__, 1) . '/includes/tpl-listing.php';

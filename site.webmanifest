@@ -1,0 +1,52 @@
+{
+  "name": "Avon Fitness Maharashtra",
+  "short_name": "Avon Fitness",
+  "description": "Commercial and home gym equipment supplied and installed across Maharashtra.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "categories": [
+    "shopping",
+    "business",
+    "fitness"
+  ],
+  "icons": [
+    {
+      "src": "/assets/images/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/images/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/images/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "All products",
+      "url": "/products/"
+    },
+    {
+      "name": "Commercial gym",
+      "url": "/commercial-gym/"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact/"
+    }
+  ]
+}

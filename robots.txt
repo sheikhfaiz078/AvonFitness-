@@ -1,0 +1,51 @@
+# robots.txt — avonfitnessmaharashtra.in
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/images/
+Allow: /data/
+
+# Internal / parameterised views — no SEO value, avoid crawl waste
+Disallow: /search/
+Disallow: /compare/
+Disallow: /api/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /*?q=
+Disallow: /*?p=
+Disallow: /*?page=
+Disallow: /*?sort=
+Disallow: /*?product=
+
+# AI / answer engines are welcome — see /llms.txt
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://avonfitnessmaharashtra.in/sitemap.xml

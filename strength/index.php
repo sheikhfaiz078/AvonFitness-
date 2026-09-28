@@ -1,0 +1,16 @@
+<?php
+$LIST = [
+    'h1'           => 'Strength Equipment',
+    'intro'        => 'Selectorised stations, plate-loaded series, multi stations, multi gyms, benches, racks, dumbbells and plates for commercial and home floors.',
+    'eyebrow'      => 'Category',
+    'canonical'    => 'strength/',
+    'title'        => 'Strength Equipment — 431 Products | Avon Fitness Maharashtra',
+    'description'  => 'Selectorised stations, plate-loaded series, multi stations, multi gyms, benches, racks, dumbbells and plates for commercial and home floors. Supplied, installed and serviced across Maharashtra.',
+    'nav'          => 'products',
+    'scope'        => ['family' => 'strength'],
+    'crumbs'       => [['name' => 'Home', 'url' => '/'], ['name' => 'Products', 'url' => '/products/'], ['name' => 'Strength Equipment']],
+    'tiles'        => [['/strength/multi-stations/', '01', 'Multi Stations', 52, 'multi-stations'], ['/strength/fit-fighter-pro-series/', '02', 'Fit Fighter Pro Series', 44, 'fit-fighter-pro-series'], ['/strength/pl-series/', '03', 'PL Series', 38, 'pl-series'], ['/strength/rhino-max-series/', '04', 'Rhino Max Series', 25, 'rhino-max-series'], ['/strength/mynd-series/', '05', 'Mynd Series', 24, 'mynd-series'], ['/strength/rafale-series/', '06', 'Rafale Series', 21, 'rafale-series'], ['/strength/rhino-plus-series/', '07', 'Rhino Plus Series', 19, 'rhino-plus-series'], ['/strength/muscle-toner-series/', '08', 'Muscle Toner Series', 17, 'muscle-toner-series'], ['/strength/tiger-series/', '09', 'Tiger Series', 15, 'tiger-series'], ['/strength/fit-fighter-series/', '10', 'Fit Fighter Series', 14, 'fit-fighter-series'], ['/strength/hi-tech-series/', '11', 'Hi-Tech Series', 14, 'hi-tech-series'], ['/strength/molten-series/', '12', 'Molten Series', 14, 'molten-series']],
+    'body'         => '<h2>Selectorised, plate-loaded or free weights?</h2><p><strong>Selectorised</strong> stations carry a weight stack and a pin — fast to adjust, safe unsupervised, and the backbone of a general fitness floor. <strong>Plate-loaded</strong> stations cost less per station and load heavier, at the price of plate handling and storage. <strong>Free weights</strong> give the most training value per rupee and demand the most floor area and supervision. Most commercial floors need all three.</p><h2>Cover the movement patterns</h2><p>Rather than counting machines, check you can train horizontal and vertical pushing and pulling, knee-dominant and hip-dominant leg work, and core. A small floor that covers every pattern feels complete; a large floor with three machines doing the same thing does not. <a href="/blog/how-to-choose-strength-training-equipment/">Full guide</a>.</p><h2>Series</h2><p>Avon manufactures several commercial strength series. Each covers a set of stations built to a consistent frame and finish specification, so a floor equipped from one series reads as a coherent set rather than an assembly of parts. Stations from different series mix without issue.</p>',
+    'related'      => [['/products/', 'Full catalogue'], ['/commercial-gym/', 'Commercial range'], ['/home-gym/', 'Home range'], ['/commercial-gym-solutions/', 'Gym planning']],
+];
+require dirname(__DIR__, 1) . '/includes/tpl-listing.php';

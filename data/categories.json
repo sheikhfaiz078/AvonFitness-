@@ -1,0 +1,254 @@
+{
+ "families": [
+  {
+   "slug": "cardio",
+   "name": "Cardio Equipment",
+   "count": 157,
+   "subcategories": [
+    {
+     "slug": "treadmills",
+     "name": "Treadmills",
+     "count": 64
+    },
+    {
+     "slug": "cross-trainers",
+     "name": "Cross Trainers",
+     "count": 20
+    },
+    {
+     "slug": "upright-bikes",
+     "name": "Upright Bikes",
+     "count": 20
+    },
+    {
+     "slug": "recumbent-bikes",
+     "name": "Recumbent Bikes",
+     "count": 17
+    },
+    {
+     "slug": "spin-bikes",
+     "name": "Spin Bikes",
+     "count": 14
+    },
+    {
+     "slug": "air-bikes",
+     "name": "Air Bikes",
+     "count": 9
+    },
+    {
+     "slug": "massagers",
+     "name": "Massagers",
+     "count": 6
+    },
+    {
+     "slug": "orbitracs",
+     "name": "Orbitracs",
+     "count": 6
+    },
+    {
+     "slug": "magnetic-x-bikes",
+     "name": "Magnetic X-Bikes",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "slug": "strength",
+   "name": "Strength Equipment",
+   "count": 431,
+   "subcategories": [
+    {
+     "slug": "multi-stations",
+     "name": "Multi Stations",
+     "count": 52
+    },
+    {
+     "slug": "fit-fighter-pro-series",
+     "name": "Fit Fighter Pro Series",
+     "count": 44
+    },
+    {
+     "slug": "pl-series",
+     "name": "PL Series",
+     "count": 38
+    },
+    {
+     "slug": "rhino-max-series",
+     "name": "Rhino Max Series",
+     "count": 25
+    },
+    {
+     "slug": "mynd-series",
+     "name": "Mynd Series",
+     "count": 24
+    },
+    {
+     "slug": "rafale-series",
+     "name": "Rafale Series",
+     "count": 20
+    },
+    {
+     "slug": "rhino-plus-series",
+     "name": "Rhino Plus Series",
+     "count": 19
+    },
+    {
+     "slug": "muscle-toner-series",
+     "name": "Muscle Toner Series",
+     "count": 17
+    },
+    {
+     "slug": "tiger-series",
+     "name": "Tiger Series",
+     "count": 15
+    },
+    {
+     "slug": "fit-fighter-series",
+     "name": "Fit Fighter Series",
+     "count": 14
+    },
+    {
+     "slug": "hi-tech-series",
+     "name": "Hi-Tech Series",
+     "count": 14
+    },
+    {
+     "slug": "molten-series",
+     "name": "Molten Series",
+     "count": 14
+    },
+    {
+     "slug": "roger-series",
+     "name": "Roger Series",
+     "count": 14
+    },
+    {
+     "slug": "cc-series",
+     "name": "CC Series",
+     "count": 13
+    },
+    {
+     "slug": "elite-series",
+     "name": "Elite Series",
+     "count": 13
+    },
+    {
+     "slug": "benches",
+     "name": "Benches",
+     "count": 12
+    },
+    {
+     "slug": "home-gym-stations",
+     "name": "Home Gym Stations",
+     "count": 12
+    },
+    {
+     "slug": "axe-series",
+     "name": "Axe Series",
+     "count": 11
+    },
+    {
+     "slug": "multi-gyms",
+     "name": "Multi Gyms",
+     "count": 9
+    },
+    {
+     "slug": "fit-fighter-mii-series",
+     "name": "Fit Fighter MII Series",
+     "count": 8
+    },
+    {
+     "slug": "racks-stands",
+     "name": "Racks & Stands",
+     "count": 8
+    },
+    {
+     "slug": "dumbbells",
+     "name": "Dumbbells",
+     "count": 7
+    },
+    {
+     "slug": "anatomy-series",
+     "name": "Anatomy Series",
+     "count": 6
+    },
+    {
+     "slug": "benj-series",
+     "name": "Benj Series",
+     "count": 6
+    },
+    {
+     "slug": "flex-series",
+     "name": "Flex Series",
+     "count": 5
+    },
+    {
+     "slug": "plates",
+     "name": "Weight Plates",
+     "count": 5
+    },
+    {
+     "slug": "tejas-series",
+     "name": "Tejas Series",
+     "count": 3
+    },
+    {
+     "slug": "twisters",
+     "name": "Twisters",
+     "count": 3
+    }
+   ]
+  },
+  {
+   "slug": "outdoor",
+   "name": "Outdoor Gym Equipment",
+   "count": 22,
+   "subcategories": [
+    {
+     "slug": "outdoor-gym",
+     "name": "Outdoor Gym Equipment",
+     "count": 22
+    }
+   ]
+  },
+  {
+   "slug": "accessories",
+   "name": "Gym Accessories",
+   "count": 84,
+   "subcategories": [
+    {
+     "slug": "accessories",
+     "name": "Gym Accessories",
+     "count": 65
+    },
+    {
+     "slug": "other-equipment",
+     "name": "Other Fitness Equipment",
+     "count": 19
+    }
+   ]
+  }
+ ],
+ "segments": [
+  {
+   "slug": "both",
+   "name": "Commercial & Home",
+   "count": 65
+  },
+  {
+   "slug": "home",
+   "name": "Home",
+   "count": 152
+  },
+  {
+   "slug": "commercial",
+   "name": "Commercial",
+   "count": 455
+  },
+  {
+   "slug": "outdoor",
+   "name": "Outdoor",
+   "count": 22
+  }
+ ]
+}
